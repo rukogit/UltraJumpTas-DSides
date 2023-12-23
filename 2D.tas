@@ -1,12 +1,9 @@
-# Monika's D-Sides
-# https://gamebanana.com/mods/150759
-
 RecordCount: 951
 
 console load nameguysdsidespack/0/2-Oldsite
    1
-Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIsUltra true
 
+Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIsUltra true
 
 #Start
   88
@@ -46,7 +43,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   15,U,X
    3,J,G
    2,R,J
-
    1,R,K,G
    1,R,J,G
    4,R,D
@@ -74,7 +70,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   10,R,K
   15,U,X
    7,R,J,G
-
    8,R
    7,R,Z
    3,R,J
@@ -97,7 +92,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   14,U,X
   10,R,J
    9,L,K
-
    3,L,J,G
    2,K,G
    1,J
@@ -137,8 +131,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   40
 
 #lvl_a-06
-
-
    1
    4,J
    9,K
@@ -215,7 +207,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   18,R,C
   14,R,X
    4,L,G
-
   18,D,X
   24,L,C
    6,R,G
@@ -236,7 +227,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
    1,R,J,G
   10,R,D
   18,D,X
-
    5,R,D
    3,R,J,G
   18,R,X
@@ -267,7 +257,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   29,R,X
    4,L,J
    9,L,K
-
   30,U,X
   21,D,C
    6,R,D,G
@@ -275,7 +264,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   22,R
   10,R,G
    3,R,J,G
-
    6,R
    3
    3,R
@@ -298,13 +286,11 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   32,R,J,G
   30,R,U,X
    1,J
-
   10,R,J
    4,J
    4,R,K,G
    1,R
   49,R,K
-
   23,R,U,X
    1,J
    1,R,J
@@ -342,18 +328,15 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   12,R,K
   22,U,X
    5,R,C
-
    1,J,G
    4,R
-   2,R,J
-   1,R,J
+   3,R,J
    6,R
    6
    1,G
   20,D
   18,R,D
   15,R,U,X
-
    8,R,J
   12,R,K
    9,R,J,G
@@ -365,7 +348,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   20,J
   12,L,J
   11,D
-
    3,R,D
   24,R,U,X
    8,R,J
@@ -389,7 +371,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
    1,R,J
   11,K
    1,J
-
    6,K,G
    6,L,K
    2,K
@@ -431,7 +412,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   12,K
   11,J
   12,K
-
    2,J
    7,K,G
   10,R,K
@@ -448,7 +428,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
    4,K
    2
   18,D,X
-
    7,L,Z
    4,R,J
    1,J
@@ -464,7 +443,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
    3,R,J,G
    2,R,D
    6,D
-
    6,R,D
    3,R,J,G
    1,L,K,G
@@ -492,7 +470,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
    1,R,K
    1,L,K
    1,R,K
-   0,L,K
   48,R,J
   40,R,K,G
    5,L,K
@@ -523,7 +500,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
   13,R,J
   22,J
    1,K
-
   25,R,K
    1,J
   14,R,J
@@ -534,7 +510,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
    1,L,J
   18,L
    4
-
    4,L,Z
    1,L,J
    7,L
