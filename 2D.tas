@@ -1,4 +1,4 @@
-RecordCount: 999
+RecordCount: 1202
 
 console load nameguysdsidespack/0/2-Oldsite
    1
@@ -101,9 +101,10 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
 
 #lvl_a-05
    2,R
-   3,R,J,G
+   2,R,J,G
    6,R
-  51,R,X
+   1,R,K,G
+  49,R,C
    1,L,G
    8,R,D
    3,D
@@ -246,45 +247,32 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
 #lvl_b-04
    1,R,K
    9,R,D
-  11,R,J,G
-  23,U,X
-  22,D,C
-  23,R,Z
-   4,R,J
-  11,R,K
-  18,U,X
-  19,D,C
-  20,R,D
-  29,R,X
-   4,L,J
-   9,L,K
-  30,U,X
-  21,D,C
-   6,R,D,G
+   1,R,J,G
+  26,R
+  31,R,C
    1,R,J
-  22,R
-  10,R,G
-   3,R,J,G
-   6,R
    3
-   3,R
-   1,L,J,G
-   6,R,J
-  33,U,X
+   1,R,K
+   1,L
+   7,R
+   3,K,G
+   7,L,J,G
+   9,R,J,G
+  33,U,C
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,J
   40
 
 #lvl_c-01
-   1,R
-   1,R,J,G
-   6,R,K,G
-   1,R
-   6
-   5,R,J,G
-  30,R,X
+  14,R,K,G
+  28,R,X
    4,L,J
   10,L,K
    7,R,K
-  32,R,J,G
+  29,R,J,G
+   3,L,J,G
   30,R,U,X
    1,J
   10,R,J
@@ -346,83 +334,68 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
    1,R,K
    1
    1,J,G
-  20,J
-  12,L,J
-  11,D
-   3,R,D
-  24,R,U,X
-   8,R,J
-   1,R,K
-  11,R,J,G
-   0,R
+   3,D
+  16,R,D
+   2,R
+   2,R,D
+   1,R
+  13,R,Z
+   1,L,J
+   3
+   4,L,K
+   2,R,K
+   3,R,J,G
+   1,R
+  11,R,D,C
   40
 
 #lvl_c-03
-  16,R
-  18,D
-  14,R,Z
-   6,J,G
-   1,L,J
-  12,L,K
-   9,J
-  12,K
-  12,J
-  12,K
-  11,J,G
+   3,R,D,C
    1,R,J
-  11,K
+  10,R,D
+  21,D
+   1,L,D
    1,J
-   6,K,G
-   6,L,K
-   2,K
-  10,J,G
-   1,R,J
-   1,L,J
-   4,K,G
-  16,R,K
-  12,L,J
-  14,L,K,G
-   5,J,G
-   1,R,J
-   4,K
-   8,R,K
-  11,J,G
-   1,L,J
-  11,K,G
-   1,R,K
-   7,J,G
-   5,L,J
    1,K,G
-   6,L,K
-   4,L
-  12,R
-   7,D
-   6,R,D
-  40,D
-  20,R,D
-  32,R,Z
-   4,L,J
-  14,U,X
-  18,J
-  12,K
-   8,J
+   2,R,K
+   1,R
+   8,R,K
+  12,L,J,G
+  12,L,K,G
+  12,L,J,G
+  10,K,G
+   2,R,K
    1,R,J
-   9,K,G
-   3,L,K
-  11,J
-  12,K
-  11,J
-  12,K
-   2,J
-   7,K,G
-  10,R,K
-   4,R
+  33,R,C
+   1,R,J
+   3
+  15,U,C
+  18,K
+Repeat 12
+   1,J
+   1,K
+EndRepeat
+   6,K
+Repeat 9
+   1,J
+   1,K
+EndRepeat
+   4,K
+Repeat 10
+   1,J
+   1,K
+EndRepeat
+   3,K
+  13,R,J
+   3,R,K,G
+   9,L,K,G
    1,R,J,G
-   4,L,J
+   3,L,J
+   2,R,J
    1,R,K,G
    1,R,J,G
-   1,R,K,G
-  25,R,D
+  12,R
+  13,D
    1,J
    1,L,K
    1,R,J
@@ -512,20 +485,22 @@ Set ExtendedVariantMode.EveryJumpIsUltra trueSet ExtendedVariantMode.EveryJumpIs
    1,L
    5,L,J,G
    7,L
-   4,L,Z
+   5,L,D,C
    1,L,J
    7,L
-   8,L,J
-   1,L
-   8,L,J
-  19,L
-  13,L,X
-   3,L,J,G
-  13,L
-  23,R,D,X
+   1,L,J
+   1,R,J
+   4,L,J
+  10,L
+   3,L,K,G
+  15,L,D,C
+   2,L
+   1,L,K,G
+   8,L
+  26,R,D,X
    1,R,J,G
-  14,R
+  16,R
   38,R,K,G
-  69,R,J,G
+  58,R,J,G
 
-ChapterTime: 1:15.208(4424)
+ChapterTime: 1:06.997(3941)
