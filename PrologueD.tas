@@ -1,10 +1,9 @@
-# Monika's D-Sides
-# https://gamebanana.com/mods/150759
-
 RecordCount: 342
-Set ExtendedVariantMode.EveryJumpIsUltra true
+
 console load nameguysdsidespack/0/0-Prologue
    1
+
+Set ExtendedVariantMode.EveryJumpIsUltra true
 
 #start
   69
@@ -122,7 +121,3 @@ console load nameguysdsidespack/0/0-Prologue
  200,O
 
 FileTime: 18.479
-
-#18.479
-
-
