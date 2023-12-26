@@ -1,5 +1,5 @@
 
-RecordCount: 6220
+RecordCount: 6480
 
 console load nameguysdsidespack/0/10-Farewell 181264 -48272
    1
@@ -938,107 +938,112 @@ endstunpause
    1,R,K,G
    5,R
    4
-   6,R,Z
+   7,L,Z
+   2,R,J
   40
 #lvl_u-07
-   1,R,J
-   7,R
-   7,R,K
-  12,R
-  38,L
-  65,R,G
-  22,L
-  25,R
-  14,U,X
-  22,R,J
-  19,R
-  11
-  33,R,D
-   3,R,G
-  15,R,K,G
-   6,U,X
-   6,L,J
-  19,L,K,G
-   2,L,G
-repeat 36
-   1
-   1,G
-endrepeat
-  35,K,G
-  20,R,J
+   2,R,J
+   3,R
+   1,L,K,G
+   7,R,D,X
+   1,L,K,G
+   4,R
+   3,L
   19,R,X
-   9,K,G
-  45,D
-  10,R,D
-  15,R,U,X
-  24,K,G
-  19
-  10,G
-  18,L,D
-  35,R
-  16,U,X
-  12,L,J
-   1,R,K,G
-  15,R
-  15
-  21,R
-   5
+   2,L
+   3,L
+  12,R,D,X
+   2,R,K,G
+  14,R
   15,U,X
-  34,R,C
-  13,U,X
-   9,R
-   5,L
-   8,U,X
-  36,L
-  21,R,U,X
-  48,R,G
-  21,R,Z
-  17,R,G
-  10,K,G
-  23
-   1,G
-   1
+  11,R,J
+  26,R
+  18,R,D,X
+  13,D
+   4,R,D
+  16,R,K,G
+  12,U,X
+  26,R,J
+  21,R,D
+  15,R,Z
+   3,R,K,G
+  10
+   2,D
+   5,L,D
+  10,R,D
+   1,R,K,G
+  20,R
+  22,R,U,X
+  12
+   1,R
+  15,R,U,Z
+   3,L
+  12,L,K,G
+   1,J,G
+  10,R,K
+   3,R
+   1,R,K,G
+   1,R
+  13,L
+   7,J
+  30,D
+  17,R,D
+  15,R,U,X
+  19,R
+   4,D
+  41,R,U,X
+  23,L,U,C
+  15,U,X
+  30,L
+  16,R,U,C
+   2,R
+   6,R,X
+   8,R,K,G
+   3,R,K
+  26,G
+   7,L,J
+  24,L
 repeat 50
    1,G
    1
 endrepeat
-   9
-  20,L,J
-  11,L,U,Z
-   7,R,K
-  26,L,G
-  32,L
-  16,R,U,X
-   1,K,G
-   4,D
-   4,K,G
-  15,D,X
+   5,L,G
+  14,R
+  11,L,J
+  15,L,U,X
+   6,L,D
+   6,D
+   5,R,D
+   5,L,D
+  15,L,U,X
+  21,R,D
+  15,R,U,Z
+  60,D,X
+   6,R,D
+  25,R,X
+  20,R,C
+  24,R,G
+  12,K,G
+   9,R,G
+   8,J,G
+  15,U,X
+   8,R
+   8,R,K,G
+   4,R
    6,L
-  13,U,X
-  20,L,D
-  10,D
-  24
-  36,R,U,X
-  23,R,C
-   1,G
-   1
-repeat 20
-   1,G
-   1
-endrepeat
-  19,K,G
-  35,J,G
-  30,R,G
-   1,K,G
-  11,R,K
-  18,L,K
+  13,R
+  11,D
+   7,L,D
+   6,D
+   2,R,G
+  11,R,J,G
+  14,L,J
+   7,J
+  11,U,X
+   6,L,J
+   8,R,K
+   4,R,J,G
    7,R
-  10,R,J,G
-  27,L,J
-  12,R,K,G
-   9,R,J,G
-   6,R
-  95
   14,R,Z
    1,L,J
    1,L
@@ -1270,4 +1275,4 @@ endrepeat
   15,R,U,X
   13,R,U,C
  565
-MidwayChapterTime: 4:07.214(15956)
+MidwayChapterTime: 3:58.612(15450)
