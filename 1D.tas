@@ -1,7 +1,7 @@
 # Monika's D-Sides
 # https://gamebanana.com/mods/150759
 
-RecordCount: 2171
+RecordCount: 2290
 Set ExtendedVariantMode.EveryJumpIsUltra true
 console load nameguysdsidespack/0/1-City
    1
@@ -488,61 +488,54 @@ console load nameguysdsidespack/0/1-City
   11,R,K,G
   35,R,D
   16,R,X
-  26,R,J,G
-  13,R
-  15,R,U,X
-   4,R
-   4,R,J,G
-   7,R
-   4,Z
-   1,R,J
-   7,R
-   1,R,J
+  35,R,G
+   2,R,J,G
+  14,R,K,G
+  17,R
+  26,G
    3,R
+   1,R,J,G
+   5,R,K,G
+  15,R,D,X
+   1,R
+   3,R,J
+   1,R
   40
 
 #lvl_b-08
-  11,R
-   5,R,J
-  15,R,D,X
-   1,R
-  18,R,J
-   1,J
-   4,R,K,G
-   5,R
-  15,R,D,X
-   1,R
-   4,R,J
-   2
-   7,R,D,X
-   7,R,J,G
-   4,K,G
-   3,R
-   4
-   1,R
-   1
-  10,R,D,X
-   7,R,J
-   1,L,K,G
    2,R
-  38,L,D
-  12,R,J
-  20,R,D
-   4,D
-  24,R,J
-  10,R,D
-   8,R,X
+   8,R,D,X
+   1,L,J,G
    3,R,J,G
-   1,L,K,G
-   8,R,K,G
-   9,R
-   1,R,J
-  14,R
-  15,U,X
-   3,R
-  12,K,G
-  12,J,G
+  12
+   1,J
+   2
+  15,R,D,X
+   3
+   8,R,J
+   2,R
    1,K,G
+   3,R
+   1,L
+  20,R,D
+   6
+   4,R
+   2,R,J
+  10,R
+  23,R,J
+   7,R,K
+  11,R
+  14,R,X
+   2,R,J,G
+   5
+   3,J
+   4,R,K,G
+   9,R
+  16,R,J
+  15,U,X
+   4,R
+  12,J,G
+  12,K,G
    7,R
    9,R,Z
    1,R,J
@@ -550,4 +543,4 @@ console load nameguysdsidespack/0/1-City
    5,U,X
  134
 
-ChapterTime: 1:08.340(4020)
+ChapterTime: 1:07.728(3984)
