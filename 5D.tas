@@ -1,7 +1,7 @@
 # Monika's D-Sides
 # https://gamebanana.com/mods/150759
 
-RecordCount: 3047
+RecordCount: 3257
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
 console load nameguysdsidespack/0/5-Temple
@@ -145,11 +145,11 @@ EndRepeat
   40
 
 #lvl_c-04
-   1,L
+   1,L,D,X
    3,L,J
   55,L,X
-  15,L,D,C
-   3,R,J
+  10,L,D,C
+   5,L,J
   14,U,X
   14,J
   13,R,X
@@ -813,7 +813,6 @@ EndRepeat
   40
 
 #lvl_f-07
-
    3,R,G
    1,D
    2,R,J
@@ -948,6 +947,12 @@ EndStunPause
    1,R,J,G
    4,R,G
    3,G
+#   1,R,J,G
+#   4,R,G
+#   3,G
+#   6,R,J,G
+#  99,R,G
+#skip feather?
   27,L,J,G
    1,D
   13,U,X
@@ -1020,4 +1025,4 @@ EndStunPause
    1,R
  146,L,U,X
 
-ChapterTime: 3:11.760(11280)
+ChapterTime: 3:11.709(11277)
