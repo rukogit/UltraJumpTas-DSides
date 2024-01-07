@@ -1,7 +1,7 @@
 # Monika's D-Sides
 # https://gamebanana.com/mods/150759
 
-RecordCount: 3257
+RecordCount: 3909
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
 console load nameguysdsidespack/0/5-Temple
@@ -652,24 +652,31 @@ EndStunPause
    7,U,X
    5,R,J
   10,R,J,G
-  25,R,G
-   2,R
-   3,R
-   5,R,Z
+  16,G
+   3,L
+   1,R
+   3
+   6,L
+   1
+   5,L,Z
+   1,R,J
+   4,R,K,G
+   4,R
 StunPause
-   5,R
-   5,R,J
-  17,R,J,G
-  13,R,G
+   2,R
+  14,R,G
+   1,R,J,G
+   8,R,G
    2,D
-SkipAutoInput,3,1
-   8,D,X
-SkipAutoInput,9,1
-  16,D
-SkipAutoInput,3,1
-   8,D,C
+SkipInput,3,1
+   9,D,C
+SkipInput,9,1
+  15,D
+SkipInput,3,1
+   7,D,X
 EndStunPause
-  13,R,D
+   8,D,X
+   6,R,D
   13,L,Z
    2,R,J
    5,R,D,X
@@ -705,7 +712,6 @@ EndStunPause
   32,R,K,G
    1,R,J
   14,R,D,X
-
   30,R,J
    1,R,K
   14,R
@@ -713,10 +719,12 @@ Repeat 22
    2,R,D
    2,L,D
 EndRepeat
+#Spinner Cycle
+   2
+#
   10,L,D,X
    1,R,J
    7,R,D
-
 Repeat 26
    2,R,D
    2,L,D
@@ -732,12 +740,10 @@ EndRepeat
   10,L,Z
    1,R,J
    7,R,D
-
 Repeat 35
    2,R,D
    2,L,D
 EndRepeat
-
    5,D
    8,L
    1,L,J
@@ -745,7 +751,6 @@ EndRepeat
   14,L,Z
    2,R,J
    6,R,D,X
-
   13,R,G
    8,R,J,G
    1,R,G
@@ -754,8 +759,6 @@ EndRepeat
 
 #lvl_f-06
    1,R,J,G
-
-
    1,R,G
    9,U,X
   20,R,J
@@ -779,23 +782,14 @@ EndRepeat
    1,L,J
   15,L,D,X
   32,D,C
-
-
-
-
-
   13,G
    9,J,G
    8,G
-
-
-
   17,R,Z
    1,L,D
   10,L,D,G
   17,D,G
   11,R,G
-
    6,D
    1,L,J,G
   16,L,D
@@ -823,7 +817,6 @@ StunPause
   16,L
   28,L,G
 EndStunPause
-
    7,R,G
   10,R,J,G
    1,D
@@ -853,7 +846,6 @@ EndStunPause
   14,R,G
    1,R,J,G
   12,R,G
-
    1,R,J,G
    1,R,G
    2,R,J,G
@@ -866,7 +858,6 @@ EndStunPause
    5,L,K
   14,L,Z
    1,R,J
-
    7,R,D,X
   13,R,G
   23,R,J,G
@@ -882,147 +873,120 @@ EndStunPause
   11
    2,R
   52,R,G
-
    1,R
   22,R,Z
-  12,L,D,X
+   3,L
+   1
+  14,L,D,X
    1,R,J
-   2,R
-  12,R,D,X
+   7,R
+   1,R,J
+   6,R,D,C
   13,R,G
-   8,R,J,G
+   2,R,J,G
+   5,R,G
   40
 
 #lvl_f-10
-  14,R,J,G
-   3,J,G
-   1,R
-   2
-   4,R,J,G
-   2,R
-   5,R,U,X
-  20,R,G
-   1,R,G
-  18,R,G
-  10,R
-   6
-  14,R,U,X
-  14,R,J,G
-
-  15,R
-   7
-   2,D
-   3,L,D
-
-  10,R,U,X
+   6,R,G
    1,R,J,G
-   9,R
-   4
-  21,G
+   4,L,J,G
    1,R,G
    1,R
-   8,L
-  10,D
-   1,R,J
-   1,R,K,G
+   7,R,K,G
+   5,R,U,C
+  13,R,J,G
+  11,L,G
+  11,R,G
+  12,R,D,G
+   6,R,J,G
+   5,R,G
    1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   7,R
-   1,R,J
-   6,R,U,X
-  10,R,G
-  18,G
-
-  12,R,G
+  13,R,G
    3,R,J,G
-   7,R,G
-   1,R,J,G
-   3,R,G
-
-   5,R,J,G
+  12,R,G
+   4,R,J,G
   40
 
 #lvl_f-11
-   1,R,J,G
-   4,R,G
-   3,G
-#   1,R,J,G
-#   4,R,G
-#   3,G
-#   6,R,J,G
-#  99,R,G
-#skip feather?
-  27,L,J,G
-   1,D
-  13,U,X
-  22,G
-  32,D
-  13,F,170
-  12,F,160
-  10,R
-
-   5,F,80
-   9,F,89.99
-  26,F,85
-  14,R,Z
+   2,R,J,G
+  12,R,G
    1,R,J,G
    7,R,G
-   3,R,J,G
-   3,R,G
+   1,R,J,G
+   1,L,J,G
+  11,R,J,G
+   1,R,J
+  10,R,Z
+  11,L,J
+  13,R,C
+  22,R,G
+   1,D
+   5,L,D,C
+   1,L,J
+   6,L
+   3,R
+   6,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,C
+  13,R,G
+   1,R,J,G
+   2,R,G
   40
 
 #lvl_f-12
-  13,R,G
-  42,R,J,G
-  14,R,K,G
-
-StunPause
-  13,R,K,G
-   3,R,J,G
-  14,R,G
-EndStunPause
-
-   5,R,G
-  11,L,D,G
-   3,D,G
-   3,L,G
-  12,R,J,G
+  16,R,G
+  24,R,J,G
    1,R,G
-
-  21,R,J,G
-   1,R,K,G
-
-  30,R,G
-   7,G
-   5,R,G
-   9,G
-   1,R
-  19
-  12,L,Z
+   1,R,J,G
+   1,R,G
+   2,R,K,G
+StunPause
+   4,R,G
+EndStunPause
+   2,R,G
+  12,G
+  15,L,G
+  32,R,J,G
    1,R,J
-   7
+   6,R,K,G
+  32,R
+  55,G
+   1,R
+   7,L
+  12,R
+  10,L,Z
+   1,R,J
+   5,R
+   2,R,J
   24,R,G
-  11,R,J,G
-   7,R,U,X
-  27,R,G
-   1,D
-
-   3,J,G
-  21,G
-   9,R
-   9
-  14,R,Z
-   1,R,J
-   8,R,U,X
-  42,R,G
-  12,J,G
-  12,L,K,G
-  16,R,J
-  14,R,D,X
-   1,R,J
-  30,R,J,G
+  10,L,G
    1,R
- 146,L,U,X
-
-ChapterTime: 3:11.709(11277)
+   8,R,U,C
+  27,R,J,G
+   1,R,J
+   1,R,K,G
+   1,L
+   6
+  13,R
+  10,R,D,C
+   5,R,J
+   5,R,U,C
+  30,R,J,G
+  16,R,J,G
+  12,R,K,G
+  12,R,J,G
+   1,R,K,G
+   5,R,G
+   2,R
+   1,R,K,G
+   1,R,J,G
+  10,R
+   2,R,J
+   7,R
+  23,R,J,G
+  15,R,C
+ 132,R,D
+ChapterTime: 3:03.549(10797)
