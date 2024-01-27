@@ -1,8 +1,8 @@
-
-RecordCount: 190
+RecordCount: 506
 
 console load nameguysdsidespack/0/10-Farewell 26256 -4328
    1
+Set ExtendedVariantMode.EveryJumpIsUltra true
 #Start
   36
    6,L,Z
@@ -478,60 +478,36 @@ endstunpause
   14,R,U,Z
   28,R,X
   14,R,U,C
-  15,R,D,X
-  17,R,Z
-  71,R,X
-   8,R,D,C
-  33,U,X
-  13,R,C
-  21,D,X
-  20,R,Z
+  25,R,D,X
+  10,R,U,Z
+  10,R,J
+  26,R,X
+  13,R,U,Z
+  41,R,D,X
+  13,R,Z
+  25,U,X
+  14,R,Z
+  28,D,X
+  28,R,Z
   15,R,X
-   2,R
-  15,R,U,Z
-   9,L
-  18,R,D,X
-  14,R,C
-  70,L,U,X
-  40
-#lvl_d-12s
-  43,L,U
-  11,L,X
-   1,S,O
-   1,D,J
-   1
-  69,O
-  10,L,Z
-   1,L,J
-   4,L
-   9,D,X
-  40
-#lvl_d-12(1)
-   6,R
-   9,R,D,X
-  13,R,D
-  26,R,U,X
-  15,R,C
-  14,R
- 128,R,X
-  23,R,D,C
-   3
-   9,L,Z
-   1,R,J
-   7,R
-   1,R,K
-   4
-   2,R
-   1,J,G
-  10,R,U,X
+  14,R,U,C
+  37,R,X
+ 128,R,V
+  15,R,X
+  14,R,D
+  10,R,Z
+   8,R,J
+   4,R
+   1,K
+  10,R,U,Z
   40
 #lvl_d-13
-   2,L
+   2,R
    3,R,J
-  15,U,X
-  12,J
+  16,U,X
+  11,J
    1,R,K,G
-  12,R
+  11,R
    3,R,J
    4,J
   15,R,D,X
@@ -638,45 +614,46 @@ endstunpause
    4
    4,R,K,G
    1,L,J,G
-   2,R,J
-   7,R
-   7,K
-  10,R,J,G
-   1,J,G
-  15
-   9,R,U,X
-  11,R,K,G
-Stunpause
-   1,R
-Skipinput 3 1
-  15,R,D,X
-endstunpause
-   3,R,G
-Stunpause
-   1,R,G
-Skipinput 3 1
+   3,R,J
+   6,R
+   5
+   2,R
+  26,R,K,G
+   6,R,U,X
+   1,K,G
+   1,R,K
+   5,L,K
+   7
+   3,L
+   3,R
+   1,L
+   8,R
+   2,R,G
    5,R,X
    1,R,K,G
-   5,R,J,G
-   3,R,K,G
-   2,R,J,G
-   2,R
-endstunpause
-   5
+   1,R,J,G
    1,R
-   5,R,U,Z
+   1,R,K,G
+   1,R,J,G
+   1,R
+   2,R,K,G
+   2
+   3,R
+   2,J
+   3
+   3,R
+   5,R,U,X
   40
 #lvl_d-16
-   1,R,U
-   4,R,J,G
-   1,S
-   1,J
-   9
-  31,R,J
-   9,R,U,Z
+   9,R,K,G
+   5,R
+   4,R,J
+  11,L,D
+   1,R,D
+  12,R,U,Z
   40
 #lvl_d-17
-   2,R,U
+   2,R
    1,R,K,G
    8,R
   15,R,U,X
@@ -822,9 +799,10 @@ endstunpause
    5,R
    7
    3,R,K,G
-Stunpause
    1,L,J,G
-   3,R,K
+   1,R,K
+Stunpause
+   2,R,K
    8,R
 endstunpause
    1,R,J,G
@@ -859,4 +837,4 @@ endstunpause
    1,D,J
    1
   69,O
-MidwayChapterTime: 2:25.418(9254)
+MidwayChapterTime: 2:16.493(8708)
