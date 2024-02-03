@@ -1,4 +1,4 @@
-RecordCount: 9325
+RecordCount: 9354
 
 console load nameguysdsidespack/0/10-Farewell
    1
@@ -1178,26 +1178,18 @@ EndStunPause
    4,Z
    1,R,J
    7,R
-   2,R,J
-   6,R
-   1
+   1,R,J
+   5,R
+   3,R,J
   40
 
 #dedication
 #lvl_d-01
-   7,J
-  15,D,X
-   2,L,J
-  12,L,D,C
-   1,R,J
-   1,R
-   1,R,J
-   1,R,K,G
-   3,R
-   6,L
-   1,R,J
-   1,L,J
-   4,R,J
+   2,R,J
+   6,R,D,C
+   1,K,G
+   9
+   6,R,J
    2,R
    3,R,K,G
    6,R,D,C
@@ -1208,8 +1200,8 @@ EndStunPause
   40
 
 #lvl_d-02
-   1,L
-   9,R
+   2,L
+   8,R
   10,R,Z
    5,R,D,X
   15,D,C
@@ -1248,7 +1240,7 @@ EndStunPause
   29,R,X
   23,R,U,C
 #hazard cycle d-03, d-04, d-05, d-10
-   0
+   1
 #
   14,R,Z
    1,R,J
@@ -1472,7 +1464,6 @@ EndStunPause
 
 #memories
 #lvl_d-10
-Set,Invincible,false
    4,R,J
   10,R,Z
    5,R,J
