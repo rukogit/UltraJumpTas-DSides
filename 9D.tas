@@ -1,4 +1,4 @@
-RecordCount: 9354
+RecordCount: 9361
 
 console load nameguysdsidespack/0/10-Farewell
    1
@@ -2841,10 +2841,11 @@ endstunpause
 #2,R,J
 #endstunpause
 #3,R,J
-#14,R,D,X instead of 10 and the rest is same
+#14,R,D,X instead of 11 and the rest is same
+***S
    2,R,D
-  17,D
-  10,R,D,X
+   8,D
+  11,R,D,X
    2,R,J
    7,R,K,G
   40
@@ -2964,10 +2965,10 @@ endrepeat
   15,R,X
   13
    9,D
-#-7f but messes up cycle in g-09
+#faster but but messes up cycle in g-09
 #12,R,D
    9,R,D
-  10,D
+  13,D
   10,R,U,X
    7,R,K,G
    1,R,J,G
@@ -3007,6 +3008,7 @@ endrepeat
   13,R,D,X
   40
 
+***S
 #lvl_g-09
    4
    1,R
@@ -3226,7 +3228,7 @@ endrepeat
    7,J
   11,R,X
 #hazard cycle hh-06
-   2
+   1
 #
   14,R,Z
    1,R,J
@@ -3325,6 +3327,7 @@ endrepeat
   11,R,U,X
   40
 
+***S
 #lvl_hh-06
    2,R,U
    1,S
@@ -3724,6 +3727,7 @@ endstunpause
   21,U,X
  405
 
+#revisit
 #lvl_j-00
   11,L,Z
    1,R,J
@@ -3741,6 +3745,7 @@ endstunpause
    8,R,J,G
    3,R
   40
+
 #lvl_j-01
    1,R
    6,R,D,X
@@ -3782,6 +3787,7 @@ endstunpause
    3
    6,L
   40
+
 #lvl_j-03
    3,L
    1,L,J
@@ -3795,6 +3801,7 @@ endstunpause
    5,R
    1,R,K
   40
+
 #lvl_j-04
    2,R,K
    8,R
@@ -3812,6 +3819,7 @@ endstunpause
    1,R
    6,R,U,X
   40
+
 #lvl_j-05
    6,R
    5,R,K,G
@@ -3830,7 +3838,8 @@ endstunpause
    1,R,J
    6,R
   43
-#lvl_j-05
+
+#lvl_j-06
    3,R
    1,R,J
    3,R
@@ -3842,6 +3851,7 @@ endstunpause
    5,R,J
   17,U,X
   43
+
 #lvl_j-07
    9,R,J
    2,R,K,G
@@ -3858,6 +3868,7 @@ endstunpause
    1,L,D
   14,R,D
   40
+
 #lvl_j-08
    4,R,D
   15,R,D,X
@@ -3896,6 +3907,7 @@ endstunpause
    5,R,U,X
    4,R,K,G
   40
+
 #lvl_j-10
    7,R,K
    8,U,X
@@ -3924,6 +3936,7 @@ endstunpause
   45
   13,U,X
  296
+
 #lvl_k-01
    6,R
    2,R,J
@@ -3941,6 +3954,7 @@ endstunpause
    1,K,G
    5,R,K
   40
+
 #lvl_k-02
    2,R,K
    2,L,K
@@ -3970,6 +3984,7 @@ endstunpause
    1,L,K
   11,L,J
   40
+
 #lvl_k-03
    2,L
    3
@@ -4014,6 +4029,7 @@ endstunpause
    5,J
   10,U,X
   40
+
 #lvl_k-04
   10,R
    1,R,K,G
@@ -4037,6 +4053,7 @@ endstunpause
    1,K,G
    4
   40
+
 #lvl_k-05
    2
   15,R,D,X
@@ -4050,6 +4067,7 @@ endstunpause
    3,J,G
    1,R,K
   40
+
 #lvl_k-06
    1,R,J
    6,R
@@ -4078,6 +4096,7 @@ endstunpause
    7,R,K,G
    9,R
   40
+
 #lvl_k-07
    7,R
    4,R
@@ -4100,6 +4119,7 @@ endstunpause
    1,R,K,G
    6,R
   40
+
 #lvl_k-08
    2,R
   10,U,X
@@ -4118,6 +4138,7 @@ endstunpause
   11,R,U,Z
    9,R,K,G
   40
+
 #lvl_k-09
    2,R
   19,R,D,X
@@ -4128,8 +4149,8 @@ endstunpause
    3,R,K,G
   12,R,D,X
   40
-#lvl_k-10
 
+#lvl_k-10
    1,R
    3,R,J
   15,D,X
@@ -4156,6 +4177,7 @@ endstunpause
    1,R,J
    2,R
   40
+
 #lvl_k-11
    4,L
   11,L,J
@@ -4176,13 +4198,13 @@ endstunpause
   11,R,D
    4,D
   15,R,X
-
    3
   16,U,C
    7,R,X
    3,R,K,G
    7,R
   40
+
 #lvl_k-12
    4,R
    1,R,K
@@ -4257,6 +4279,8 @@ endstunpause
   15,U,X
   16,U,C
  246
+
+#black karma
 #lvl_l-01
    5,L,Z
    3,R,J
@@ -4284,6 +4308,7 @@ endstunpause
    5,R,U,X
    7,R,K,G
   40
+
 #lvl_l-02
    4,R,K
    5,R,J,G
@@ -4310,6 +4335,7 @@ endstunpause
   12,K
    4,J
   40
+
 #lvl_l-03
   11,R
   11,R,U,X
@@ -4325,9 +4351,9 @@ endstunpause
   21,R,D,X
    4,R,J
   25,U,X
-console givekey
   10,U,C
   40
+
 #lvl_l-04
    3,L,U
    2
@@ -4340,6 +4366,7 @@ console givekey
   12,L,J
   14,U,X
   40
+
 #lvl_l-05
    1,R,J
   10,R
@@ -4358,6 +4385,7 @@ console givekey
   41,D,C
    3,R,D
   40
+
 #lvl_l-04
    4,R,D
   14,R,D,X
@@ -4367,6 +4395,7 @@ console givekey
    6,R,D,X
    1,R,K,G
   40
+
 #lvl_l-06
    1,R,K
    1,L,J,G
@@ -4384,6 +4413,7 @@ console givekey
    1,R,J,G
   14,R,D
   40
+
 #lvl_l-07
   13,L
   10,D
@@ -4440,6 +4470,7 @@ console givekey
    1,K,G
    4,R,K
   40
+
 #lvl_l-08
    3,R,K
    1,L,J,G
@@ -4449,10 +4480,10 @@ console givekey
   27,D
    5,R,D
    8,R,X
-
    1,R,J,G
    8,R
   40
+
 #lvl_l-09
    2,R
    3,J
@@ -4517,6 +4548,7 @@ console givekey
    3,R,J,G
    4,R
   40
+
 #lvl_l-10
    1,R,J
    4
@@ -4536,6 +4568,7 @@ console givekey
    1,R,K
    2,R
   40
+
 #lvl_l-11
    5,R
    8,R,J
@@ -4614,7 +4647,6 @@ console givekey
   15,R,U,X
   14,U,C
   40
-
   13,U,X
  391
    4,Z
@@ -4675,6 +4707,7 @@ console givekey
    9,L,J
   10,K,G
   43
+
 #lvl_m-02
    6,L
    7,L,J,G
@@ -4690,7 +4723,6 @@ console givekey
    3,L,D
    3,R,D
   11,L,D
-
    9,D
    6,R,X
    3,R,J,G
@@ -4733,6 +4765,7 @@ console givekey
    2,R,K,G
    7,R
   40
+
 #lvl_m-03
    3,R
   14,U,X
@@ -4785,6 +4818,7 @@ console givekey
    2,R,J
    2,L,J
   40
+
 #lvl_m-04
    7,L,G
   14,R,Z
@@ -4811,7 +4845,6 @@ console givekey
    1,K
    8,R,K
   25,L,K
-
   15,L,U,X
   15,L,D
    3,D
@@ -4843,6 +4876,7 @@ console givekey
    4,R
    3,R,K,G
   40
+
 #lvl_m-05
    1,R,K
    7,R,D,X
@@ -4867,6 +4901,7 @@ console givekey
    1,R,K,G
    8,R
   40
+
 #lvl_m-06
 
-MidwayChapterTime: 13:39.910(48230)
+MidwayChapterTime: 13:39.349(48197)
