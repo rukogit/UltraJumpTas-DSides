@@ -1,4 +1,4 @@
-RecordCount: 9361
+RecordCount: 9441
 
 console load nameguysdsidespack/0/10-Farewell
    1
@@ -135,11 +135,13 @@ endstunpause
   18,R,J
   18,J
   15,D,X
-  12,R,J
-  11,L,J
+  11,R,J
+  10,L,J
   15,U,X
-  22,R
-   5,L,Z
+  17,R
+   3
+   3,R
+   5,L,D,X
    3,R,J
    6,K,G
   40
@@ -157,9 +159,9 @@ endstunpause
    8,R,K
    2,R
   14,R,U,X
-  18,R,J,G
+  19,R,J,G
    StunPause
-  24,R,J,G
+  23,R,J,G
 EndStunPause
    1,R,J,G
   42,R,D,G
@@ -179,7 +181,7 @@ EndStunPause
    1,L
   12,R,D
 #hazard cycle a-09
-   1
+   2
 #
    3,R,J
    2,R
@@ -2842,7 +2844,6 @@ endstunpause
 #endstunpause
 #3,R,J
 #14,R,D,X instead of 11 and the rest is same
-***S
    2,R,D
    8,D
   11,R,D,X
@@ -3008,7 +3009,6 @@ endrepeat
   13,R,D,X
   40
 
-***S
 #lvl_g-09
    4
    1,R
@@ -3327,7 +3327,6 @@ endrepeat
   11,R,U,X
   40
 
-***S
 #lvl_hh-06
    2,R,U
    1,S
