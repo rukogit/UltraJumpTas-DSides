@@ -1,4 +1,4 @@
-RecordCount: 10018
+RecordCount: 10031
 
 console load nameguysdsidespack/0/10-Farewell
    1
@@ -3358,8 +3358,9 @@ endrepeat
    8,R
   16,R,D
 Stunpause
-  19,R
+  17,R
 endstunpause
+   2,R
    5,R
   11,U,X
    1,R,J
@@ -4903,4 +4904,4 @@ endstunpause
 
 #lvl_m-06
 
-MidwayChapterTime: 13:39.077(48181)
+MidwayChapterTime: 13:38.890(48170)
