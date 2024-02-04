@@ -1,4 +1,4 @@
-RecordCount: 9651
+RecordCount: 10018
 
 console load nameguysdsidespack/0/10-Farewell
    1
@@ -2969,7 +2969,7 @@ endrepeat
 #faster but but messes up cycle in g-09
 #12,R,D
    9,R,D
-  12,D
+  10,D
   10,R,U,X
    7,R,K,G
    1,R,J,G
@@ -3228,7 +3228,7 @@ endrepeat
    7,J
   11,R,X
 #hazard cycle hh-06
-   2
+   1
 #
   14,R,Z
    1,R,J
@@ -4903,4 +4903,4 @@ endstunpause
 
 #lvl_m-06
 
-MidwayChapterTime: 13:39.128(48184)
+MidwayChapterTime: 13:39.077(48181)
