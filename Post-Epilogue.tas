@@ -1,0 +1,85 @@
+# Monika's D-Sides
+# https://gamebanana.com/mods/150759
+
+RecordCount: 97
+
+console load nameguysdsidespack/0/11-SecondEpilogue
+Set ExtendedVariantMode.EveryJumpIsUltra true 
+   1
+
+#Start
+#lvl_slideshow
+   8,U,X
+  11,R,C
+6323,D,X
+  40,D,X
+
+#Cutscene ends at 1:48.341
+#lvl_house
+  13
+  13,R,D,C
+   5,L,J
+  15,L,D,C
+   1,L,J
+  13,R,J
+  10,L,U,C
+  40
+
+#lvl_b-01
+   5,L,U,C
+  15,U,X
+   2,R
+  40
+
+#lvl_b-02
+  11
+  14,L,U,C
+   1,L,K,G
+   7,L
+   1,L,J
+   9,L,D,C
+   1,L,J
+   4,L
+  21,L,J
+  14,L,U,C
+   1,L,K,G
+   7,L
+   1,L,G
+  12,R,D
+   3,R,J
+   4,R
+   1,L
+   6,L,C
+   3,L,K,G
+   1,L,J,G
+   9,L
+  40
+
+#lvl_b-03s
+   2,L,J
+  15,L,D,C
+  26,L,D
+Repeat 3
+   1,L,J
+  14,L
+EndRepeat
+   1,L,J
+  12,L
+  40
+
+#lvl_s-01
+   2,R
+   1,L,J
+   1,R
+  13,L
+Repeat 4
+   1,L,J
+  14,L
+EndRepeat
+   1,L,J
+   8,L
+   1,S
+   1,D,J
+  18
+
+ChapterTime: 1:57.572(6916)
