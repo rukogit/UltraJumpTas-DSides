@@ -1,4 +1,4 @@
-RecordCount: 16060
+RecordCount: 16061
 
 console load nameguysdsidespack/0/10-Farewell
    1
@@ -10043,9 +10043,7 @@ endstunpause
 #lvl_v-00-lobby
    1,S
    1,U
-   1
-   1,U
-   1
+   1,F,0
    1,U
    1,J
 SaveAndQuitReenter
@@ -12999,4 +12997,4 @@ endrepeat
   12,R,C
  136
 
-ChapterTime: 39:20.042(138826)
+ChapterTime: 39:20.008(138824)
