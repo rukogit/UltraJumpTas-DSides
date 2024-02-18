@@ -1,7 +1,7 @@
 # Monika's D-Sides
 # https://gamebanana.com/mods/150759
 
-RecordCount: 1509
+RecordCount: 2106
 
 console load nameguysdsidespack/0/9-Epilogue
    1
@@ -57,21 +57,21 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   12,J,G
    1,K,G
    8,J,G
-   2,L,K
+   2,L,J
+  43,L
+   3,L,D
   15,L
-   9,L,D
-  37,L
-  15,L,J,G
-   4,L
-   1,L,J
+  10,L,J,G
+   8,L
+   2,L,J
   28,L
-  27,U,G
+  25,U,G
+   5,L,J,G
+  12,L,K,G
    4,L,J,G
-  10,L,K,G
-   6,L,J,G
    7,L
-   1,J
-  10,L,J
+   2,J
+   9,L,J
    1,L,K,G
    8,L
   40
@@ -206,37 +206,41 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
 
 #lvl_b-05
    1,R,J
-   3,R
-  17,R,J
-  12,K,G
-  10,J,G
-  40,F,20
-  41,F,147
-  10,R
-  27,F,40
-  32,F,180
-  19,L,D
-  29,R,J
-  39,F,315
-   1,F,45
-  46,F,90
+  20,R
+  12,R,J,G
+  10,K,G
+  37,F,17.5
+  12,F,90
+  29,F,143
+  44,F,45
+  25,D
+   7,L,D
   13,D
-  26,F,45
-   6,F,90
-   3,L,D
-  27,F,90
-   3
-  41,D
-   3,F,0
-   7,F,1
-  15,F,170
-  33,F,115
-  30,F,30
-  27,F,45
-  30,R,D
-   6,D
-  22,R,D
-  14,R
+   6,R,D
+   1
+   1,R,J,G
+   1,R,K,G
+   9,K
+  40,F,302
+   8,F,0
+  40,F,90
+  18,F,120
+  16,F,45
+  26,F,101
+  10,F,120
+  10,F,150
+  14,F,180
+   3,F,300
+  11,F,52
+  34,F,120
+  62,F,44.5
+   3,F,53.3
+  14,R,D
+   3,D
+   3,R,D
+   4,D
+  21,R,D
+  13,R
    1,R,J
    4,R
    1,R,J
@@ -327,4 +331,4 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   15,R,D,X
  135
 
-ChapterTime: 1:08.867(4051)
+ChapterTime: 1:07.966(3998)
