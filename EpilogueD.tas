@@ -1,7 +1,7 @@
 # Monika's D-Sides
 # https://gamebanana.com/mods/150759
 
-RecordCount: 1508
+RecordCount: 1509
 
 console load nameguysdsidespack/0/9-Epilogue
    1
@@ -88,14 +88,16 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    5,L
    5,L,K
    4,L
-  46
-  19,L
-   9,L,J
+   1,J
+  23
+  14,L
+   2
+  11,L,J
   12,L,K
   12,L,J,G
   12,L,K,G
    1
-   6,L,J,G
+   7,L,J,G
    7,L
    2,L,J
   21,L
@@ -325,4 +327,4 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   15,R,D,X
  135
 
-ChapterTime: 1:09.241(4073)
+ChapterTime: 1:08.867(4051)
