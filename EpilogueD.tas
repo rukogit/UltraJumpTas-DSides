@@ -1,7 +1,7 @@
 # Monika's D-Sides
 # https://gamebanana.com/mods/150759
 
-RecordCount: 3504
+RecordCount: 3622
 
 console load nameguysdsidespack/0/9-Epilogue
    1
@@ -98,49 +98,43 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   12,L,K,G
    1
    7,L,J,G
-   7,L
-   2,L,J
-  21,L
-   6,L,J
-   1,L,K,G
-  10,L
-   1,L,J
-   4,L
+   9,L
+   4,L,J
+   5,L,K,G
+   6,L
+   1,L,J,G
+  10,L,D
   40
 
 #lvl_house (0)
-  17,L,D
+   7,L,D
    1,L,J
-  28,L,D
-   1,L,J
-  14,L
+  30,L,D
+   4,L
    6,L,J
-   7,L,K,G
-   6,L
+   2,J
+   4,L,K,G
+   7,L
   40
 
 #lvl_b-01
-   7,D
-   7,L,D
+  12,L,D
    2,L,J
   14,L,U,X
   11,L,D
    9,D
    6,L,D
    9,D
-  15,L,X
-   2,L,D
-  16,D
+  14,L,X
+  10,L,D
+   9,D
   15,U,X
   16,L
-  18,R,U,X
-  38,L,U,C
-   1,J,G
-   1,R,J
-   1,L,K,G
-   1,L,J,G
-  14,L,K,G
-  10,L,J,G
+  19,R,U,Z
+  38,L,U,X
+  12,J,G
+  12,L,K,G
+   2,J,G
   40
 
 #lvl_b-02
@@ -356,4 +350,4 @@ AnalogMode, Ignore
   15,R,D,X
  135
 
-ChapterTime: 1:06.317(3901)
+ChapterTime: 1:05.654(3862)
