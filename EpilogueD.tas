@@ -1,7 +1,4 @@
-# Monika's D-Sides
-# https://gamebanana.com/mods/150759
-
-RecordCount: 3622
+RecordCount: 4893
 
 console load nameguysdsidespack/0/9-Epilogue
    1
@@ -35,106 +32,104 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    3,K,G
    1,L,K
   13,R,K
-   8,R,J,G
-   1,R,K,G
+   9,R,J,G
+   1,K,G
    1,R,J,G
-   9,L,J
+   1,L,J
+   5,L,J
   40
 
 #lvl_a-03
-   7,L,J
-   2,K,G
-   1,R,K
-  21,L,J,G
-   3,L,K,G
-  10,L
-   6,D
-  12,L,J
-  34,L
-  17,L,J
-  11,K,G
-   2,R,K
-  12,J,G
-   1,K,G
-   8,J,G
-   2,L,J
-  43,L
-   3,L,D
-  15,L
-  10,L,J,G
-   8,L
-   2,L,J
-  28,L
-  25,U,G
-   5,L,J,G
-  12,L,K,G
-   4,L,J,G
+   1,J
+  16,D
    7,L
-   2,J
-   9,L,J
+   1,J
+  20,L,J
+   4,L
    1,L,K,G
-   8,L
-  40
-
-#lvl_a-04
-   3,L
-  15,L,J
+   3,R,K
+   3,K
+   1,L,J,G
+  22,L,K,G
+  11,J,G
+   1,R,J
+  11,K,G
+  10,J
+  29,L,J
+  20,L,D
+  15,L
+  12,L,G
+  10,L
+  32,L,K,G
+  18,L,U,G
+   1,L,K,G
+  12,L,J,G
    6,L,K,G
    7,L
-   7,L,J
-   5,L
-  11,L,J
-   7,L,K
-   5,L
-   5,L,K
-   4,L
-   1,J
-  23
-  14,L
-   2
-  11,L,J
-  12,L,K
-  12,L,J,G
-  12,L,K,G
-   1
-   7,L,J,G
-   9,L
-   4,L,J
-   5,L,K,G
-   6,L
-   1,L,J,G
-  10,L,D
-  40
-
-#lvl_house (0)
-   7,L,D
    1,L,J
-  30,L,D
+   5,J
+   2,L,J
+   2,L
+   1,K,G
+   2,L,J,G
+   1,L
+   6,L
+  40
+#lvl_a-04
    4,L
-   6,L,J
-   2,J
+   2,L,J
+   5,L
+   3
+   1,L
    4,L,K,G
-   7,L
+   1,R,J,G
+   4,L,J
+   5,R,J
+   1,R
+   6,R,K
+   6,R,K
+  11,J,G
+   1,L,J
+   8,L,K,G
+   2,R,K
+   2,L,K
+   1,J
+  20,L,J
+   2,L
+   2
+   4,L,K,G
+  15,L
+   1,L,J
+   7,L,K,G
+   2,L
+   1,L
+   3,L
+   1,L,J,G
+  11,L
+  40
+#lvl_house (0)
+   4,L
+   1,L,J
+  15,L,D
+  18,L
+   6,L,J
+   1
+   1,K
+   1,L,J,G
+   3,L
+   2
+   4,L,K,G
   40
 
 #lvl_b-01
-  12,L,D
-   2,L,J
-  14,L,U,X
-  11,L,D
-   9,D
-   6,L,D
-   9,D
-  14,L,X
-  10,L,D
-   9,D
-  15,U,X
-  16,L
-  19,R,U,Z
+   9,L,K,G
+   5,L
+   5,L,J
   38,L,U,X
+   2,L,G
+  12,K,G
   12,J,G
-  12,L,K,G
-   2,J,G
+   4,K,G
   40
 
 #lvl_b-02
@@ -158,51 +153,72 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
 
 #lvl_b-03
    2,R
-   6,L,K
+   1,K
+   5,L,K
    1,J,G
    1,R,J
   29,R,K
-  27,U,G
-   1,R,J,G
-   1,R,K,G
-  26,L,K
-  12,L,J
-   6,K,G
+  16,U,G
+   1,K,G
+   1,J,G
+   2,R,K,G
+   9,L
+  10,L,J
+   5,L
+  12,L,K,G
   12,J,G
-  12,K,G
-   9,R,J
-  40
+  12,K
+  12,J
+  43
 
 #lvl_b-04
-  11,K
+   9,K
+   1,R,K
+   7,J,G
+   7,R,J
+   3,R,K,G
    7,R
-  11,R,J
-   2,R
-   3,R,J,G
-   4,R
-  37
-   8,J
-   1,K
+   8,D
+   1,L,J
+   8,L
+   2,L,D
+  15,D
+   7,J
   11,R,K
-  59,R,D
+  17,R,D
+   2,R,J
+  41,R,D
   10,R
-  24
+  26
    3,J
-   5,R,K
-  28,R,J
-   1,K
-   2,J,G
-  10,L,J
-  12,K,G
-  41,U,G
-   2,R,J,G
-  40
-
-#lvl_b-05
+   4,K
+   2,L,J,G
+   9,K
+   4,R,K
+   8,L,K
+   1,J,G
    1,R,J
-  20,R
-  12,R,J,G
-  10,K,G
+  12,R,K
+   1,J,G
+   2,L,J
+   3,L,K
+  10,L,G
+  12,L,G
+   4,D,G
+   1,L,K,G
+   3,L
+   1,J,G
+   1,L,K,G
+  23
+  22
+   3,J
+   1,R,J
+   9,R,D
+   1,R,J
+   2,R
+   1,L
+   1,R
+   6,K,G
   26
 AnalogMode, Square
    1,F,61.513
@@ -214,90 +230,99 @@ AnalogMode, Precise
    1,F,9.551
   11,F,70
    6,F,88.828
-   1,F,89.604
+   1,F,85.604
    4,F,115
    1,F,115.41
-  17,F,147.518
-   1,F,142.319
-   3,F,126
-   2,F,123.912
-   9,F,303.913
-   2,F,293.781
-   1,F,293.781
-  13,F,275.764
-   1,F,275.764
-  11,F,336
-  11,F,36
-   3,F,64.124
-  13,F,75.404
-  16,F,105.167
-   1,F,106.863
-  12,F,112.256
-   1,F,111.334
-  12,F,62.119
-   1,F,63.456
-   2,F,99.983
-   1,F,99.983
-  18,F,100.688
-   1,F,105.17
-   1,F,110.059
-   1,F,115.391
-  23,F,162
-   4,F,180
+  17,F,150.518
+   4,F,160
+  21,F,70
+   5,F,200
+   4,F,300
+   8,F,290
+  20,R,U
+  28,R
+  19,F,115
+  16,F,60
+   9,R,D
+  17,F,107
+  23,D
+   2,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   4,D
    2,F,343.152
-   1,F,346.059
+   2,F,346.059
   11,F,46
   11,F,106
   14,F,112.21
    1,F,106.876
    7,F,86.794
-   1,F,84.276
+   2,F,84.276
   41,F,42.793
    1,F,47.456
   11,F,107
   13,F,174
 AnalogMode, Ignore
-   8,D
-  21,R,D
-  13,R
+  11,D
+  17,R,D
+  15,R
    1,R,J
    4,R
    1,R,J
-   4,R
+   3,R
+   1,R
    1,R,J
-   7,R
+   1,R
+   1,L,K,G
+   4,R,K
   40
 
 #lvl_b-06
-   7,R
-  60,R,J
-  10,D
-   4,R,J
-  24,R
-   9,L,D
-  58,L
-   9,J,G
-  11,L,K,G
-  15,L
-  10,D
-   8,R,D
-  27,L
-   9,L,J,G
-   3,R,J
-   3,L
+   4,R,K
+   1,L,J,G
+  82,R,J
+   2,L
+   1,R
+  42,L
+  25,L
+   6,L,K,G
+   5,L
+   2,L,J
+   2,L
+   5,D
+  17,R,D
+  25,L
+   2
    6,L,J,G
-  10,L
-   1,L,J
-   9,L
+   1,J,G
+   1,J,G
+   2,R,J
+   2,R
+   1,L,K,G
+   1,L,J,G
+   5,L,K,G
+  16,L
   40
 
 #lvl_b-07
    4,L
-  16,D
+   4,R
+   3,L
+   9,L,D
+   1,L
    9,L,J
    5,L
   37,L,J
-  79,D
+  16,D
+   3,R
+  14,L,D
+   1,L
+   1,L,D
+   1,L
+   3,L,D
+  39,D
   24,L,J
   12,D
   76
@@ -330,14 +355,13 @@ AnalogMode, Ignore
   24,L,D
    2,L,J
    4,L,K,G
-  12,L
+  10,L
    1,L,J
+   2,L
    1,K,G
-   1,R,K
-   2,K
-  20,R
-   1,R,J
-   5,R
+  19,R
+   3,R,J
+   6,R
    2,R,J
    7,R,D
   15,D,X
@@ -350,4 +374,4 @@ AnalogMode, Ignore
   15,R,D,X
  135
 
-ChapterTime: 1:05.654(3862)
+ChapterTime: 1:00.690(3570)
