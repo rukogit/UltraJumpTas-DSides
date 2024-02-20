@@ -1,4 +1,4 @@
-RecordCount: 36190
+RecordCount: 36202
 
 console load nameguysdsidespack/0/10-Farewell
    1
@@ -4499,7 +4499,6 @@ endstunpause
    2,R,K,G
    7,R
   40
-
 #lvl_m-03
    3,R
   14,U,X
@@ -5054,7 +5053,6 @@ endstunpause
   12,K,G
    5,J,G
   40
-
 #lvl_n-03
    1,L
    1,R
@@ -7660,7 +7658,6 @@ endstunpause
   15,U,C
   11,L,K,G
   40
-
 #lvl_q-06
    3,R
    4,L
@@ -9606,7 +9603,6 @@ endstunpause
    1,R,J
    2,R
   40
-
 #lvl_u-06
    5,R
    2,R,K
@@ -12229,8 +12225,9 @@ EndStunPause
   34,L,D,G
 Stunpause
    5,L,D,G
-  23,L,U,G
-Endstunpause
+   2,L,U,G
+endstunpause
+  21,L,U,G
   97,L,U,G
   23,L,D,G
    1,L,J,G
@@ -12290,6 +12287,8 @@ Endstunpause
    1,J
    5,D
   23,R,D
+#spinner cycle
+   1
   35,R,U,X
   13,R,C
   33,R,D,X
@@ -12718,4 +12717,4 @@ endrepeat
   14,R,X
  135
 
-ChapterTime: 37:28.607(132271)
+ChapterTime: 37:26.754(132162)
