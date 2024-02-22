@@ -1,4 +1,4 @@
-RecordCount: 599
+RecordCount: 609
 
 console load nameguysdsidespack/0/0-Prologue
    1
@@ -57,7 +57,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,J,G
   20,L,J
   10,D,G
-  20,G
+  19,G
    2,R,K
    2,R
    1,R,J,G
@@ -118,4 +118,4 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,D,J
  200,O
 
-FileTime: 0:19.567(1151)
+FileTime: 0:19.550(1150)
