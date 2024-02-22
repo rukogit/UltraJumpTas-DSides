@@ -1,4 +1,4 @@
-RecordCount: 36202
+RecordCount: 38296
 
 console load nameguysdsidespack/0/10-Farewell
    1
@@ -6,8 +6,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
 #Start
   90
 #hazard cycle, a-01, a-04
-   0
-
+   2
 #a-00-intro
    2,L,J
    8,J
@@ -30,48 +29,37 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   24,L,J
   15,U,X
   12,R,J,G
-   1,K,G
-   7,R
-   9,L
+   1,R,K,G
+   5,R
    2
-   8,R,X
-   1,R,J,G
-  11,R,K,G
-  13,R
-   8,R,J,G
-   4,R
-   1,R,J
    1,R
-  20,R,J,G
-   2,R
+   8,L
+   7,R,D,X
+   1,R,K,G
+   2,R,J,G
+   2,R,K,G
+   7,R
+   1,J
+   4,R,J
+  14,R,U,X
+   2,R,K,G
+   3,R,J,G
+   1,R,K,G
+   4,R,J,G
+   4,R
+   5,R,K
   40
 #lvl_a-01
-   9,R,D
-   4,R,J
-stunpause
-   5,R,J
-endstunpause
-   6,R,J
-stunpause
-   3,R,J
-endstunpause
-   1,R,J
-   7,R,U,X
-stunpause
-   1,R,U,X
-endstunpause
-   6,R,U,X
-  10,J
-   1
-   3,K,G
-   8,R,K,G
-   7,R
-   4,Z
-   8,R,J
-   3,J
-   9,R,K,G
+   1,R,D
+  18,R,U,Z
+  14,U,X
+   4,J
+   7,R,X
+   6,R,K,G
+   1,K
+   3
+   5,R,J,G
   40
-
 #lvl_a-02
    1,R,K
    3,R
@@ -99,11 +87,22 @@ endstunpause
    2
    1,K,G
    2,K
-   6,R,K
-  12,J,G
-   7,R,J
-  26,L,D
-  57,D
+   4,R,K
+   3,K
+   1,R,J,G
+   7,J
+  10
+  18,L,D
+   1,L,J
+   4,R
+  14,L
+  17,D
+   4,L
+  18,D
+   1
+   2,L
+   2
+   2,D
    4,R
    7,R,D
    6,R
@@ -121,23 +120,20 @@ endstunpause
   40
 
 #lvl_a-03
-   2,R,J
+   1,R,J
+   1,R,J
+  12,R,J
+   1,R
+   1,K
+   7
+   4,R
+   3
+   7,J
+   6
    3,R
-   1,L,K,G
-  19,R
-   6,J
-   2,K,G
-   2,R
-   5,R,D,X
-   1,L,J
-   8,L,G
-   1,L,K,G
-  25,L
-  18,R,J
-  18,J
   15,D,X
-  11,R,J
-  10,L,J
+   7,R,J
+  13,J
   15,U,X
   17,R
    3
@@ -377,49 +373,35 @@ Endstunpause
   15,U,X
    3,L
   35,R,G
-  19,R,U,G
-   7,R,D,G
-   1,L
-   1,R,K,G
-   4,R
-   7,L
-  15,U,X
-  10,R,J
-   3,L,J
+  25,R,D,G
+   2,D,G
+   1,R
+   2,R,K,G
+   7,R
+  13,R,J
+   7,K,G
+  14,U,X
   40
 
 #lvl_aa-05
-   1,L,K,G
-   1,L,J,G
-  12,L
-   7,U,X
-  25,L,U,G
-   2,L,D
-  34,D
-   8,J
-  12,U,X
-  43,L,U,G
-  19,L,D,G
-  53,L,G
-  16,L,U,G
-   1,L,D
-  10,R
-  12,U,X
-  25,R,U,G
-  12,R
-  12,L,J
-  50,L,G
-   6,K,G
-   1,R,J
-   1,L,K
-   1,R,J
-   1,L,K
-   1,R,J
-   1,L,K
-   1,R,J
-   1,L,K
-   1,R,J
-   1,L,K
+   3,L,J
+   4,L
+   2,L
+  38,R,D,G
+   1,L
+  24,L,U,X
+  61,L,U,G
+  16,L,D,G
+  30,L,U,G
+   1,R,D
+   8,R
+  11,U,X
+  24,R,U,G
+  13,R
+  11,L,J
+  51,L,G
+   7,K
+   6,J
   40
 
 #lvl_aa-06
@@ -562,7 +544,7 @@ Endstunpause
    7,R,X
    5,R,C
 #hazard cycle b-03, b-06, b-08
-   1
+   0
 #
   15,R,D,X
    3,L
@@ -641,6 +623,8 @@ Endstunpause
   10,L
   11,R
   95
+#hazard cycle b-06
+   1
    1,R,J
    4,R
    1,R,J
@@ -727,7 +711,7 @@ endstunpause
    6,L
    1,R
 #lightning cycle
-   2
+   1
 #
    4,L,X
   10,L,J
@@ -853,14 +837,12 @@ endstunpause
   41,R,D
   21,R
   34,R,U,X
-   1,K
-  11,R,K
-  13,R,G
-  25,R
-  49,R,G
-   5,R,K,G
-  10
-  30,R,D
+   2,R,G
+  47,R,U,G
+   1,R,K,G
+   4,K,G
+   9,D
+  32,R,D
   15,D
    4,R
   10,R,J
@@ -869,12 +851,12 @@ endstunpause
    1,R,K,G
    3,R,J,G
    1,R,K,G
-   3,R,J,G
-  10,R
-  15,D
-   8,D,X
+   4,R,J,G
+   7,R
+  17,D
+   6,D,X
 Stunpause
-   1,D
+   4,D
    8,K,G
   24,R,J,G
 Skipinput 3 1
@@ -967,7 +949,7 @@ endstunpause
    5,L,K
    4,G
 #hazard cycle
-   0,G
+   2,G
 #
   15,D,X
    1,D
@@ -1138,73 +1120,51 @@ EndStunPause
   21,R,J
   12,K,G
    6,J,G
-   7,R
-   4,Z
+   1,K,G
+   6,R
+   2,R,J
+   1,L
+   6,R
+   5,L,Z
    1,R,J
+   1,R,K,G
    7,R
-   1,R,J
-   5,R
-   3,R,J
+   5
   40
 
 #dedication
 #lvl_d-01
-   2,R,J
-   6,R,D,C
-   1,K,G
-   9
-   6,R,J
    2,R
-   3,R,K,G
-   6,R,D,C
-   1,L,K,G
-   9,R,K,G
-  12,R
-   2,L
+   1,R,J
+   5,R,K,G
+   3,K
+   3
+   2,R
+   7,R,J,G
+  15,R,D,X
+   9,R
   40
-
 #lvl_d-02
-   2,L
-   8,R
-  10,R,Z
-   5,R,D,X
-  15,D,C
-   4,R,D
-  15,R,Z
-   5,R,U,X
-  15,U,C
-  17,R,D
-   4,D
-   3,R,D
-   3,D
-   5,R,D
-  18,R,Z
-  17,L,U,X
-   9,R,U,Z
-   2,R,U,X
-  13,R,C
-   4,R,X
-  15,R,C
-  15,D,X
-  15,R,D,C
-  12,R
-  17,R,Z
-  10,R,X
-  10,U,C
-  53,R,J
-  15,U,X
+   1,R,D
+   1,R,J
+   1,R,J
+Stunpause
+   1,R,J
+   1,R,J
    2,R
-  19,R,J
-  13,R,X
-   5,R,D,C
+endstunpause
+   4,R
+  11,R,K
+  12,R,U,X
+   1,R,J,G
+   5,R
+   4,D,X
+   9,D,C
    5,R,D,X
-   6,D,C
-  13,R,D,X
-   6,R,D,C
-  29,R,X
-  23,R,U,C
+  29,R,C
+  23,R,U,X
 #hazard cycle d-03, d-04, d-05, d-10
-   1
+   0
 #
   14,R,Z
    1,R,J
@@ -1295,89 +1255,85 @@ EndStunPause
    1,R,J
    4,R,X
    5,R,J
-   4,K,G
-   3,R,K
+   3,K,G
+   1
+   1,R,K
+   2,R
    3,R,J,G
-   1,R
+   2,R
   40
 
 #lvl_d-07
-   6,R
-  16,R,K
-  17,R,U,X
-  15,U,C
-  21,R,D
-   8,D
-   3,R,D
-  10,D
-  15,R,X
-  15,R,C
-  24,R,J
-  15,R,U,X
-  15,L
-  20
-   6,R
-  12,L,Z
-   1,R,J
-  15,L,J
-  15,L,X
-  12,R,D
+   4
+   5,R,J,G
+   5,R
+   3,R,K
    3,R
-  14,R,D,X
-  14,R,J
-  15,R,U,X
-  23,D
-  13,L
-   3
-   9,R
-   2,L
-   2,R
-   1,L
-   1,L,J
-  12,L
-   6,R,X
-  32,R,J
-   7,L
+Stunpause
+   7,R
+   4
+   1,D
+endstunpause
+   4,D
    2,R,D
-   3,L,D
-   8,R,X
+   1,R,D
    5,R,J
-   5,R,D
-   9,L,D
-   2,R,D
-   3,L,D
-  20,R,D
-  14,R,Z
-  31,R,J
-  26,R,U,X
-  14,L,D
-   8,R,Z
+  14
+  15,R,U,Z
+   6,L
+   4
+   8,R
+   1,R
+   1
    1,R,J
-   6
-  25,R,K
-   2,K
-   9,R,U,X
-   1,J,G
-   8,R,J
-   5,R,K,G
-   2,R,K
+  11,L,X
+   9,R,J
+   4,R
+   7
+   6,K
+   9,K
+  19,R,Z
+  11,R,J
+  41,R,D
+  12,R,Z
+  20,R,J
+  24,R,X
+  19,R,Z
+   7,L,V
+   1,R,J
+   4,R
+  15,R,K
+   8,K
+  13,R,U,X
+   2,J,G
+   5,R,J
+   4,K,G
+   3,R,K
   40
-
 ##lvl_d-08
    2,R,K
    2,R
    5,R,J,G
-  28,R
+   4,R
+   3,R
+  10,R
+   5,R,D
+   1,R,D
+   1,D
+   2
+   1,D
   11,R,U,Z
    1,L,K,G
    1,R,K
+   5,R
+   1,L,J
+   2,L,J
+   4,L
+   4,R
+   1
    6,R
-   1,R,J
-  11,R
-   3
-   1,R
-   5,J,G
-   6,R,J
+   7,J,G
+   4,R,J
   22,R,U,X
    9,D
   11,R,D
@@ -1420,7 +1376,6 @@ EndStunPause
    4,R,X
    8,R,J
   40
-
 #memories
 #lvl_d-10
    4,R,J
@@ -1441,8 +1396,8 @@ EndStunPause
    2,J,G
    8
    1
-   1,L,J
 StunPause
+   1,L,J
    4,R
    2,R,J
 EndStunPause
@@ -1450,16 +1405,16 @@ EndStunPause
    1,L
    1,R,J
    3,R
+   4,R,U,Z
 StunPause
-SkipInput,3,1
-   5,R,U,Z
+   1,R,U
    1,L
 EndStunPause
    2,K,G
    7
   14,R,U,Z
-StunPause
    2,R,K,G
+StunPause
    1,K,G
    1,R,K,G
 EndStunPause
@@ -1809,14 +1764,17 @@ EndStunPause
   40
 
 #lvl_d-18
+stunpause
    1,R
    6,R,J
+endstunpause
    5,R
    7
    3,R,K,G
-Stunpause
    1,L,J,G
-   3,R,K
+   1,R,K
+Stunpause
+   2,R,K
    5,R
 endstunpause
    3,R
@@ -1877,55 +1835,46 @@ endstunpause
   13,U,X
 #hazard cycle dd-00-lobby
    2
-#
-  20,R,U,C
-  13,L,U,X
-   2,L,K,G
-   5,L
-   2,R
-  15,U,X
-  11,L,K,G
-   5,L
-   3,R
-  15,U,X
-  11,L,K,G
-   5,L
-   3,R
-  15,U,X
-  11,L,K,G
-   8,L
-   6,R,Z
-   1,L,J
-   7,L
-  12,L,K
-  12,J,G
-   3,K
-  10,U,X
-   5,R,J
-Stunpause
-   3,R,J
-   3,R
-   1,K,G
-   7,R
-   2,L
-   8,L,J
-   5,K,G
-   1,J
-   4,R,J
-   4,L,J
-  12,L,K,G
-   6,J,G
+  37,L,U,X
+   1,J,G
    1,R,J
    1,L,J
-   1,J
-   6,R,K
-Skipinput 3 1
-  11,R,U,Z
-   6,K,G
-endstunpause
-   1,K,G
+   3,K,G
+   4,R,K
+  26,R,U,X
+  14,U,Z
+  20,L,J
+   8,L
+   3,L,K
+   7,J,G
+   4,R,J
+  10,L,J
+  13,K,G
+  14,U,X
+  10,R,J
+Stunpause
+   1,R,J
+   2,R
+   2,K,G
+   7,R
+   2,L
    3,L,J
-   9,L
+Skipinput 3 1
+  15,U,X
+  10,J,G
+   1
+   1,R
+   1,L
+   4,K,G
+   5,R,K
+   1
+   1
+   3,R
+   7,R,J
+   7,K
+endstunpause
+   3,K
+   8,L
    6,L,Z
    1,L,J
    7,L
@@ -2163,7 +2112,7 @@ endstunpause
    1,R,J
   12,R
 #spinner cycle
-   2
+   0
 #
   12,L,D,X
    1,R,J
@@ -2345,7 +2294,7 @@ endstunpause
   15,R,Z
   27,R
 #hazard cycle f-09
-   2
+   1
 #
   14,U,X
   15,L,J
@@ -2394,17 +2343,13 @@ endstunpause
    1,S,O
    1,J
   12,R,J
-   1,S,N
-   1,J
-   8,R,J
-   1,S,N
-   1,J
    1,K
-   1,S,O
+   1,S,N
    1,J
-  21,K
+   9,R,J
+  13,K
   12,L,J,G
-  12,L,K,G
+  12,K,G
    5,R,J
   40
 
@@ -2450,9 +2395,8 @@ endstunpause
   30,R,J
   15,U,X
    9,R
-#hazard cycle f-12, f-13, f-99
-   0
-#
+#hazard cycle f-12
+   1
   19,R,X
   14,R,U,Z
    1,J
@@ -2485,7 +2429,7 @@ endstunpause
   12,R,K,G
    8,R
 #spinner cycle
-   2
+   0
 #
    4,R,Z
    2,R,J
@@ -2597,10 +2541,8 @@ endstunpause
   28,R,J
    8,R,K,G
   10,R
-#lightning cycle
    2,J
    1
-#
    6,L,Z
    1,R,J
    5,R
@@ -2625,40 +2567,19 @@ endstunpause
    2,R
   11,R,J,G
    5,R
-   5,R,K,G
-   2,R,K
-   5,R,J,G
-  10,J,G
-   6,R,K,G
-   5,R
-  10,R,D,X
-   1,R,J
-   1,R
-   1,R,K,G
-  17,R,J,G
-   2,R
-   9,R,U,X
-   1,R,K,G
-   1,R,J,G
-   7,R
-  25,L,D
-   3,R,D
-Stunpause
-  12,R
-   2,R,D
-   5,R
-   1,R,J
-endstunpause
-#ligtning cycle bullshit waiting for g-09 something something 15f cycle lightning thingy
-#old movement was 
-#2,R,J
-#endstunpause
-#3,R,J
-#14,R,D,X instead of 11 and the rest is same
-   1,L,J
-   2,R,D
-   8,D
-  11,R,D,X
+   9,R,K,G
+   8,R,J,G
+  15,R,D,X
+  12,D
+  12,R,D,C
+   5,K,G
+   5
+  10,J
+   2
+  10,R,U,X
+   1,K,G
+  15,L
+   8,R,D,X
    2,R,J
    7,R,K,G
   40
@@ -2758,9 +2679,12 @@ endrepeat
   15,R,X
   13
    9,D
-  12,R,D
+   9,R,D
+   1,R,D
+   2,R,D
+
 #lightning cycle
-   1,D
+   1,R,D
 #
   10,R,U,Z
    7,R,K,G
@@ -3241,176 +3165,173 @@ endstunpause
 
 #lvl_i-07
    4,R,J
-  35,R,D
-  24,R
-  20
-   3,J
-  45,R,J
-  59,R
-  27
-   1,R,J
-   9,J
-   7,R
-  10
-  10,R
-  15,R,X
-  25,D
-   8,L,D
-  15,L,X
-  23,D
-  10,R,Z
-  24,R,J
-  27,R,G
-  29,L,J
-   1,L,G
-  17,L,U,G
-  15,R,G
-   4,R,J
-  14,R
-  20,L,D
+  24,R,D
+stunpause
+   3,R,D
+   7,D
+   2,R,D
+   1,R
+   2,R,G
+Skipinput 3 1
+   5,R,X
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1,R,K,G
+   1,R,J,G
    5,R
-   9,L
-   4
-  30,R
-  10
-   1,L,J
-  11,J
-   8,R,J
-  11,R,K,G
-   7,R
+   2
    1,R,J
-  14,R
-   1,R,J
-   2,R
+endstunpause
+  10,R,J
+  27,R,G
+  27,L,J
+   3,L
+  33,L,G
+   4,R,J
+   5,R
+   4,R,K
+   1,D
+  13,R,D
+   5,R
+  18,L
+   3
+  17,R
+  24
+   8,J
+  10,R,J
+   1,K,G
+   1,R,J,G
+  11,R
+   1,R,K
   40
 
 #lvl_i-08
   14,R,D,X
-   5,R,J
-  27,R
-  22,R,U,X
-   4,R,J
-  20,R,K
-  73,R,U,X
-  43,R,U,C
-  45,R,U,X
-   1,J
-  23,R,J
-   2,J
-   1,K,G
-   2,R,J,G
+   2,R,J
    5,R
-  13,R,K
-  12,R,J
-   1,R
-   8,R,K,G
-   7,R
-   2
-  13,J
-  10,R,X
-  40
+   2,R,K
+   9,R
 
-#lvl_i-09
+  22,R,U,X
+  27
+   8,L
+  13,L,Z
+   4,R,J
    4,R
-  24,R,J
-  26,R,G
+   2,R,K
+   9,R
+   1,J
+   2
+   5,R
+  20,R,J
+  25,R
+   4
+   2,R,K,G
+   9,R
+   8,K,G
+  16,U,X
+   6,R,Z
+   4,R,K,G
+  40
+#lvl_i-09
+  18,R,K
+  25,R,G
    1
   11,J
   27,L,G
    1
    1,J
-  17,R,J
-   5,L,K
-  26,L
-  30,R,G
-  38,R,J,G
-  17,R,G
-   7,K,G
-   1,L
-   1,J
   20,R,J
-  22,R
-   2,D
-   1,R,K,G
-   7,K,G
+  25,R,G
+  11,U,X
+  30,R,J
+  20,R,D
    1,L
-   1,J
-  25,L,J
-   1,K
-  10,R,K
-  28,L,K
-  24,L,G
-  10,L,J,G
-  79,L,D
-   4,R,J
-  19,R
-  10,R,X
-   2,K,G
-   2,L,K
-  21,L,G
-  24,R,J
-  15,R,X
-   9,R,D
-   8,D
-   7,R,D
+   1,K,G
+   3,R,K
+   4,R
+   1,L
+  27,L,J
+  26,L,G
+   7,L,J,G
+  40,L
+  38,L,D
+   2,R,J
+  27,R
+  22,L
+  15,L,G
+   1,K,G
+   1,R,K
+   1,L,K
+   3,J,G
+  15,R,J
+  12,L,K,G
+   1,J,G
+   1,R,J
+   1,L,J
+   3,K,G
+  25,R,K
+  15,R,Z
+   5
+  13,R
   10,R,X
   40
 
 #lvl_i-10
    4,R
-  10,R,J
-  15,U,X
-  24,L
-   7,K,G
+  15,R,J
+  26,L,U,Z
+   4,K,G
    1,J
   24,L,J
-   6,K,G
-   9,J
-  12
-  15,L,D
-   4,R,J
-  17,R
-  27,R,X
+   4,K,G
+   1,L,J,G
+   6,R,J
+   2,J
+   1,R,J
+   1,J
+   4
+   1,L
+   1
+   4,L
+   2
+  14,R
+   2,R,D
+  29,R,X
   15,R,Z
-  25,L,D
+  22,L,D
   15,R,U,X
-  15,R,U,C
-   9,L
-  32,D
+  18,R,U,C
+  40,D
   15,R,X
   19,L,D
   15,L,X
-  43,D
-  19,R,X
-  18,U,C
-  15,L,X
-  15,L,C
-  28,D
+  22,R,D
+   9,D
+   1,D
+  13,R
+   4,R,D
+  21,R,U,Z
+  21,L,U,X
+  28,L,C
+  40,L,X
+  15,U,C
   15,U,X
-  19,L,C
-  11,D
-   3,L,D
-   7,D
-  15,U,X
-   4,L
-  15,U,X
-  16,L,D
-  14,D
-   6,L,D
-   6,D
-   4,L,D
-   3,R,D
-  15,L,X
+  18,L,D
+  30,D
+  17,L,Z
   16,U,C
    3,L
-   2,R
-  12,R,K,G
+   1,R
+  11,R,K,G
    1,R,J,G
    7,R
    5,D,X
-  21,L
+  17,L
+   4
   16,U,X
-   9,L,K,G
+  10,L,K,G
    9,L
   12,J
   15,U,X
@@ -3460,7 +3381,7 @@ endstunpause
 #revisit
 #lvl_j-00
 #spinner cycle
-   1
+   0
 ##
   11,L,Z
    1,R,J
@@ -3591,7 +3512,7 @@ endstunpause
    7,R
    1,X
    1
-  81,U
+  82,U
    1,X
   19
    2,R,J
@@ -4034,39 +3955,43 @@ endstunpause
    4,L,J
    1,L,K
   29,R,U,X
+   4,R
   16,R,C
    4,R,J
-   1,K
-   2
+   1,R,K
+   4,R
    5,R,U,X
-   7,R,K,G
+   4,R,K,G
   40
 
 #lvl_l-02
-   4,R,K
-   5,R,J,G
-  16,R,X
-   4,L,J
-  10,R,K
-  22,L,U,X
+   1,R,K
+  16,R
+  10,R,U,Z
    4,R,J
-  15,U,X
-  26,L,D
+   4,R
+   2,L,K
+  19,J
+  23,L,U,X
+   7,L,J
+  35,U,X
+  25,L
+  15,U,Z
+   2,R
+   1
+   1,R
+   1
+  12,R,J
   14,L,J
-  19,R,U,X
-   4,R,K
-  23,R,J
-  22,U,X
-  22,R,U,Z
-   4,L
-  13,L,J
-  14,L,X
-   4,L,J
-   1,L,K
-   6,K
-  29,L,U,X
-  12,K
+   1,K
+   1,J
+   6,L,J
+   6,J
+  12,K,G
+  12,J,G
+   2,K,G
    4,J
+
   40
 
 #lvl_l-03
@@ -4094,7 +4019,7 @@ endstunpause
   10,U,X
   22,R,J
    1,K,G
-  93
+  95
    8,L
   12,L,J
   14,U,X
@@ -4145,7 +4070,6 @@ endstunpause
    1,R,J,G
   14,R,D
   40
-
 #lvl_l-07
   13,L
   10,D
@@ -5249,11 +5173,12 @@ endstunpause
   13,R
   10,R,K,G
   13,K
-   9,R,J,G
+  10,R,J,G
+  10,R,D
 stunpause
-   1,R,J,G
+   2,R,D
 endstunpause
-  14,R,D
+   2,R,D
   15,R,U,C
    6,R
   40
@@ -5429,9 +5354,9 @@ endstunpause
    2,K
    7,J
    3,R,J
-   2,R
+   3,R
 Stunpause
-   6,R
+   5,R
 endstunpause
    9,R
 Stunpause
@@ -5502,14 +5427,24 @@ endstunpause
   15,D,C
    7,R
   25,R,J
-  17,U,X
-  41,L,J
+  16,U,X
+   1,R
+   1,L
+  12,K,G
+   7,L,J,G
+  10,L
   37
    6,L
   15,L,Z
    5,L,J
    5,J
-  26,L,K,G
+   1,L,K,G
+   5,R,K
+   2,R
+   1,L,J,G
+   1,L,K,G
+   5,L,J,G
+  11,L
   43
    1,L,J
   16,L,K
@@ -5679,8 +5614,9 @@ endstunpause
 Stunpause
    4,L
    3,L,J
-   2,L
+   1,L
 endstunpause
+   1,L
    3,L,D
   27,R,K
    2,R,G
@@ -6226,6 +6162,7 @@ endstunpause
    5,L,J
   11,U,X
   56
+#lvl_o-14
    6,L,J
    3,L
   14,L,Z
@@ -6262,14 +6199,21 @@ endstunpause
    4,L,J
   15,L,U,X
   16,D
-   8,L
-  45,D
-  10,L,J
-  13
-  12,L
-  28,L,K
+   2,L
+   4,L
+   5,R
+  12,J
+   9
+   2,K
+  12
+   1,L,D
+   3,L,D,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+  13,L,J,G
   15,U,X
-  10,R
+  11,R
   40,R,J
    5,R,Z
   15,R,J
@@ -6341,17 +6285,21 @@ endstunpause
    5,D
   18,L,D
   15,U,X
-  30,L
-   6
+  19,L
+   5
+   4,D
+   1,L,D
+   5,L,D
+   1,L,J
+   5,L
   15,U,X
+   7,L,K,G
+  12,L,D
+   3,L,G
    3,L
-   5,L,K,G
-  15,L,D
-   2,L,K,G
-  12,L
-   3,L,J
+  12,L,J
   14,U,X
-  10,R,J
+   3,J
   68,R,C
    2,K,G
    4,J
@@ -6586,7 +6534,7 @@ endstunpause
 #lvl_p-02
 #drift & spinner cycles p-03
   69
-   2
+   0
   14,R,X
   11,R,J
    2,R
@@ -6838,21 +6786,23 @@ Stunpause
    6,L,J
 endstunpause
    2,L,J
-stunpause
+Stunpause
    1,L,J
 endstunpause
    2,L,J
   15,L,D
    1,L,D
    1,L,D
-   3,L,D
+   2,L,D
+   1,L,D
    2,R,D
   14,R,U,Z
    1,K,G
    1,J,G
    1
    1,K,G
-  12
+  10
+   2
    3,J
    5,D
    4,K
@@ -7052,7 +7002,6 @@ EndStunPause
   13,K,G
   15,J,G
   40
-
 #goodbye of the mountain
 #lvl_q-01
    1,R,K,G
@@ -7063,7 +7012,7 @@ EndStunPause
    2,R,K
    7,R,U,X
    4,R,K,G
-   9,R,M
+   9,R
    7,R,J
    1,L,K,G
    3,R,K
@@ -7082,98 +7031,75 @@ EndStunPause
   20,R,J
    1,L,K,G
    8,R,K
-   1,J,G
-   1,L,J
-   1,R,K,G
-  12,R,J,G
-   6,R
-   6
-   4,R
-   1,R,J
-  14,R
-   1,R,J
-   1,R,K,G
-  13,R
-   1,R,J
-  12,R,D
-  12,D
-   6,R,D
-   1,R,J
-  24,R
-  12,L,G
-  22,L,D,G
-  18,R,G
-   1,K,G
-   1,L,J,G
-   6,L,J
-  15,L,D
-   8,R
-  22
-   9,R,D
-  28,R,D,J
-   5,J
-   4,R,K,G
-   1,L,J,G
-  22,R
-   4,R,K
-  10,J,G
-   2,R,J
-   8,R
-  15,R,Z
-  22,R
-   1,J
-  30,R,J
-   2,R,G
-   6,R,X
+   3,R,J,G
+   3,L,J
+   1
+
+   2
    1,R,K,G
    1,R,J,G
-   1,R
+  10,R
+   1,R,K
+  13,R
+   3
    1,R,K,G
-   1,R
-   1,J,G
-   6,R,J
-   4,R,D
-   1,L,J
-  38,R
-   7,R,J
-  23,R
-   4,R,D
-  11,D
-   6,U,X
-   9,R,J
-  12,L,J
-  28,L,G
-  25,R,J
-   3,J
-  23,R,J
-   9,R,K,G
-   8,R
+   5,R,D
    3,R,J
-   6,R
-  11,R,K
-  31,R
-   2
-  11,R,J,G
-   1,R,J
-   4,R,K,G
-   5,R
+  18,D
+   6,R,D
    2,R,J
+  15,R
+   3,L
    1,R
+   4,L
+   2,L,J
+   8,L
+  11,L,K
+   6
+   2,R,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   3,R,J,G
+  12,R
+  14,J
+   1,R,K,G
+   2,K,G
+   4,L,K
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  15,R
+   2,R,J
+   3,R,K,G
+  13,R
+  29,R,Z
+   2,R,G
+   1,R,K,G
+   1,R,J,G
+   6,R
+   2,R,K,G
+   5,R,J,G
+   2
+  26,D
+   1
+   2,R
+  10,R,D
    1,R
-   4,R
-   3,D
-   4,L,D
-   1,L,D
-   1,L
-   1,R,J
-  26,R,D
-   5,L,D
+   1,R,D
+   1
+  10,R
+   2,K,G
+   1,L,J,G
+  13,R,J
+  10,L,U,X
   20,R
    2,L
    1,R
   10,L,D
   13,R
-   4,R,D
+   3,R,D
+   1,R
    1
    1,R
    3,R,K,G
@@ -7195,8 +7121,10 @@ EndStunPause
    5,D
   16,R,D
   10,R,J
-   6,R
-   1,R,K,G
+
+   5,R
+   2
+   1,R,J,G
   13,R
    5,J
    5,R,J
@@ -7226,75 +7154,79 @@ EndStunPause
    5,L,D
    7,R,D
   27,L,D
-   7,K,G
-  14,R,J
-  10,R,X
-  20,R,K,G
-   1,K
-  14,R,U,Z
-   1,L,K,G
-   1,R
-  37,R,G
-   1,R,K,G
-   3,L
-  35,R,D
-   6,L,D
-   5,R,X
-  20,R,J,G
-   1,J,G
-  14,R,U,Z
-   1,L,K,G
+   6,K,G
    1,R,K
-  40,R,G
-   1,R,K,G
-   3,L,K
-  36,R,D
-   8,L
-   8,R,D
-   1,R
-  19,R,Z
-   7,U,X
-  35,L,J
-  22,L,G
-   3,R,J
-   9,R
-  25,D
-  15,R,D
-   5,R,X
+  11,R,J
+   3,R
+  10,R,X
    3,R,K,G
-   1,L,J,G
-   3,R,J
-   7
-   3,K,G
-   1,L,J,G
-  14,R
+   5,R
+  12,R,X
+   1,K,G
+   7,R,K
+   3,L,K
+  25,L,G
    1
-   9,R,U,Z
-   8,R,J
-   5,R
-   4,R,K
-   1,R
-   1,R,J
-   4,R
-   3
-   2,R
-   1,R,J,G
-  10,R
-   7,R,D
-   1,R,J
-  10,R
-  40
+   7,J
+   7,R
+  16,L
+  20,R,D
+   6,R,X
+  19,R,K,G
+   2,K,G
+  14,R,U,Z
+   1,L,K,G
+   5,L
+  28,R,G
+   8
+   4,L
+   9,R
+   2,D
+   4,R,D
+   9,D
 
-#lvl_q-02
-   4,R
-   2,R,J
+   7,L,D
+   8,D
+  19,R,Z
+   6,U,X
+  35,L,J
+  14,L,G
+   1
+   6,K
+  10,R
+   6,J
+  23,D
+  11,R,D
+   5,R,X
+   3,R,J,G
+   1,L,K,G
+   3,R,K
+   7
+   4,R,J,G
+  13
+   4,R,D
+  11,R,U,Z
+   9,R,J
    5,R
+   3,R,K
+   3,R
+   1,R,J
+   8,R
+  14,R,K,G
+   4,K,G
+   1,R,J,G
+   4,R
+  40
+#lvl_q-02
+   5,R
+   3,R,J
   14,U,X
   14,J
-   2
-   6,L,K
-   1
-   3,R,J
+   4
+   5,L,K
+   3
+   2,R,J
+   1,R
    1,R,K,G
   12,R
    1,R,J
@@ -7362,10 +7294,16 @@ endrepeat
   21,L
    1,L,K
   14,L
-   1,S
+   1,S,O
    1,D,J
    1
   69,O
+   #1,S
+   #1,U
+   #1,F,0
+   #1,U
+   #1,J
+#SaveAndQuitReenter
    1,L,J
   12,L
   14,R,D
@@ -7512,14 +7450,15 @@ endrepeat
   42,R
   31,R,U,X
   24,R,U,C
+#drift cycle :/
+  11
   47,R
   24,R,U
    1,R,J
    1,R,K
    7,R,J
-  12,R
+  13,R
 stunpause
-   1,R
    4,R,D
    1,R,K
    1,R,J
@@ -7536,9 +7475,10 @@ endstunpause
    1,R,K
    1,J
    1,K
-   9,R,K
+  11,R,K
+
 stunpause
-   3,R,K
+   1,R,K
    2,R
 endstunpause
    5,R,J
@@ -7921,7 +7861,7 @@ endrepeat
   19,L,J
    6,L,D
   12,L
-  62,L,G
+  60,L,G
    1,L,K,G
   30,L
   20,R,U,X
@@ -8098,13 +8038,16 @@ endrepeat
    1,R,J
    2,R
   43
-
 #lvl_q-13
   15,R,D,X
    1,R,J
+Stunpause
   12,R
+endstunpause
   60,R,K
+stunpause
    9,R
+endstunpause
    1,R,J
    3,R
    1,R,K,G
@@ -8130,9 +8073,9 @@ endrepeat
   11,R,D,C
    1,R,K,G
    5,R
-   8,R,D,C
+   5,R,D,C
 StunPause
-   6,R,D,C
+   9,R,D,C
    1,R,K,G
    8,R
 SkipInput,3,0
@@ -8141,8 +8084,6 @@ EndStunPause
    3,R
    8,R,Z
   40
-
-
 #lvl_r-00
    6,R,Z
    3,R,K,G
@@ -8570,8 +8511,12 @@ EndStunPause
    7,R
    4,L
    6,L,Z
+#stunning to force lightning to drift
+stunpause
    1,R,J
-   6,R
+   4,R
+endstunpause
+   2,R
    7,R,K
    3,K
    4
@@ -8583,9 +8528,9 @@ EndStunPause
    3
    8,R,D,X
    1,L,K,G
-   3,R,K
+   2,R,K
 Stunpause
-   8,R,K
+   9,R,K
 endstunpause
    2,R,K
   40
@@ -8868,8 +8813,9 @@ endstunpause
    2,R,K,G
    2,L,J,G
    4,R,J,G
-  14,R
+  12,R
 StunPause
+   2,R
    2,L
    1,R,K,G
    3,L,K,G
@@ -8882,14 +8828,19 @@ EndStunPause
 StunPause
    2,L
 EndStunPause
-   3,L
+   1,L
+Stunpause
+   1,L,K
+endstunpause
+   1,L
    4,R,K,G
    8,R
-  23,R,J
+  22,R,J
+   1,R,D
   15,U,C
   37,R,J
-  15,F,65
-  42,F,85.7
+  16,F,65
+  41,F,85.7
   10,F,90
   54,F,140
   15,R,D,C
@@ -8920,15 +8871,16 @@ EndStunPause
    8,R
   47,F,88
    5,R,D
-  14,F,110
-   3,R
+  13,F,110
+   4,R
   16,R,Z
   27,R,U
   41,F,70.89
    1,F,78.224
   60,R
    7,F,80
-   6,R
+   3,R
+   3,F,95
   16,R,X
   32,D,C
    9,R,D
@@ -8946,14 +8898,16 @@ EndStunPause
    1
    4
    1,J
-  10,R,U,X
+   9,R,U,X
 Stunpause
-   4,R,U
+   5,R,U
 endstunpause
    1,R,U
+   1,R
 Stunpause
-   6,R
+   4,R
 endstunpause
+   1,R
   68,R,D
   10,R,U
   22,R,D
@@ -9286,16 +9240,22 @@ endstunpause
   37,R
   39,R,U,X
    9,R,K,G
-  82,R,G
-  30,R,D
- 112,R,U,X,G
-   1,R
+   7,U,G
+  58,R,G
+   5,R,X
    1,R,K,G
-   1,R,J,G
-  11,R,K,G
-  36,R
+   2,J,G
+   2,K,G
+   5,R,J,G
+   3,R,J
+stunpause
+   1,R,J
+endstunpause
+   3,R,J
+  35,R,D
+  37,R
   16,U,X
-   7,R,C
+   6,R,C
    1,R,K,G
    2,R
    1,R,J,G
@@ -9318,7 +9278,6 @@ endstunpause
    1,R,J
    6,R,D,X
   40
-
 #lvl_t-09
    1,R
    2,R,J
@@ -9660,55 +9619,51 @@ endstunpause
    7,L,Z
    2,R,J
   40
-
 #lvl_u-07
    2,R,J
    3,R
    1,L,K,G
-   6,R,D,X
-   1,L
-   2,K,G
-  20
-   4,L,J
-   2,R,J
-  13,R,D,C
-   1,R,K,G
-StunPause
-  11,R
-   4,L,D
-   1,R,D
-EndStunPause
-   1,R
-  10,R,U,C
-StunPause
-   1,R,K,G
+   7,R,D,X
    1,L,K,G
-   1,L,J,G
+   4,R
    3,L
-EndStunPause
-   4,L
-   2,R
-   1,K,G
-StunPause
-   2,R,K
-EndStunPause
-   3,R,K
-   7,L,K
-  11,J,G
-   2,R,J
-   1,K
-   7,R,K
-   2
-   1,R
-   1,J
-   2,L,J
-   1,R,J
-   2,L,J
-   1,R,J
+  19,R,X
    2,L
-   3,R
-   1,L
-   2,R
+   3,L
+  12,R,D,X
+   2,R,K,G
+  14,R
+  15,U,X
+  11,R,J
+  26,R
+  18,R,D,X
+  13,D
+   4,R,D
+  16,R,K,G
+  12,U,X
+  26,R,J
+  21,R,D
+  15,R,Z
+   3,R,K,G
+  10
+   2,D
+   5,L,D
+  10,R,D
+   1,R,K,G
+  20,R
+  22,R,U,X
+  12
+   1,R
+  15,R,U,Z
+   3,L
+
+  12,L,K,G
+  11,L,J,G
+   1,L,K,G
+   2,R,K
+   6,L,K
+   5
+   2,L
    6,R,Z
    1,R,J
    6,R
@@ -9734,16 +9689,11 @@ EndStunPause
   26,R,U,Z
    1,J,G
    1,K
-   9,R
-   1,R,J
-  14,R
+  24,R
    6,K,G
    1,L,K
    1,R,K
-  12,R,J,G
-   5,R
-   1
-   1,R
+  19,R,J,G
    1,R,K,G
    1,J,G
   10,R,J
@@ -9757,14 +9707,15 @@ EndStunPause
   12,J
   15,U,X
    6,R,K,G
-  17,R
+   7,R
+  10
   14,R,Z
    1,L,J
+   1,L
   10,L,D,X
    1,R,J
    7,R
    1,R,J
-   1,R
    1,R,K,G
   14,R,D
    1,R,J,G
@@ -9776,7 +9727,6 @@ EndStunPause
   14,U,X
    4,J
   40
-
 #lvl_u-08
   10,L
    7,R,J
@@ -12717,4 +12667,4 @@ endrepeat
   14,R,X
  135
 
-ChapterTime: 37:26.754(132162)
+ChapterTime: 36:56.766(130398)
