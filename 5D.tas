@@ -1,4 +1,4 @@
-RecordCount: 4214
+RecordCount: 4311
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
 console load nameguysdsidespack/0/5-Temple
@@ -41,8 +41,9 @@ console load nameguysdsidespack/0/5-Temple
    1,R,D,C
    4,R,K,G
 StunPause
-   2,R,K,G
+   1,R,K,G
 EndStunPause
+   1,R,K,G
    3,L,K,G
    8,R,U,C
    1,L
@@ -50,9 +51,9 @@ EndStunPause
 
 #lvl_b-02
 StunPause
-   4,J,G
+   3,J,G
 EndStunPause
-   2,J,G
+   3,J,G
    2,R,K,G
    2,R
   43
@@ -96,7 +97,7 @@ EndStunPause
   12,J,G
    9,K,G
 #Spinner Cycle
-   2
+   1
 #
    7,L,U,X
   57,R,C
@@ -151,8 +152,9 @@ EndRepeat
   14,J
   13,R,X
   13,R,C
+   1,R
 StunPause
-  10,R
+   9,R
 SkipAutoInput,3,1
   20,R,D,X
 SkipAutoInput,3,1
@@ -161,7 +163,7 @@ EndStunPause
    3,R,D
   15,D,C
 #Spinner Cycle
-   1
+   2
    #
    7,L,Z
    1,R,J
@@ -183,9 +185,9 @@ SkipInput,3,1
   12,K,G
   12,R,J,G
    1,R,K,G
-   3,L,J
+   2,L,J
 EndStunPause
-   3,L,J
+   4,L,J
   38,U,X
   11,R,U,C
   10,R,J,G
@@ -485,15 +487,15 @@ EndStunPause
   21,U,X
   22,R,C
   15,L
-
   61,L,X
 StunPause
   19,R
 EndStunPause
    4,R,U,Z
 StunPause
-   4,R,U
+   3,R,U
 EndStunPause
+   1,R,U
   14,R
   12,R,J,G
    3,K,G
@@ -534,6 +536,9 @@ EndStunPause
   14,U,X
    6,R,J
    7,R,K
+#spinner cycle
+   0
+#
   50,R,X
    1,J
   16,R,J
@@ -622,9 +627,7 @@ EndStunPause
   10,R,U,X
   37,R,G
    2,L,G
-#Spinner Cycle
    1,G
-#
   11,R,X
   23,R,J,G
   28,R,J
@@ -710,7 +713,7 @@ Repeat 22
    2,L,D
 EndRepeat
 #Spinner Cycle
-   2
+   1
 #
   10,L,D,X
    1,R,J
@@ -801,12 +804,14 @@ EndRepeat
    1,D
    2,R,J
    5,L,X
+   1,L
 StunPause
-  15,L
+  14,L
    2,L,J
   16,L
-  28,L,G
+  27,L,G
 EndStunPause
+   1,L,G
    7,R,G
   10,R,J,G
    1,D
@@ -867,6 +872,9 @@ EndStunPause
   22,R,Z
    3,L
    1
+#Spinner Cycle
+   2
+#
   14,L,D,X
    1,R,J
    7,R
@@ -934,9 +942,9 @@ EndStunPause
    1,R,G
    2,R,K,G
 StunPause
-   4,R,G
+   3,R,G
 EndStunPause
-   2,R,G
+   3,R,G
   12,G
   15,L,G
   32,R,J,G
@@ -979,4 +987,4 @@ EndStunPause
   23,R,J,G
   15,R,C
  132,R,D
-ChapterTime: 3:03.141(10773)
+ChapterTime: 3:02.971(10763)
