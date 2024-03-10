@@ -1,7 +1,7 @@
 # Monika's D-Sides
 # https://gamebanana.com/mods/150759
 
-RecordCount: 3154
+RecordCount: 3281
 Set ExtendedVariantMode.EveryJumpIsUltra true
 console load nameguysdsidespack/0/1-City
    1
@@ -106,7 +106,7 @@ console load nameguysdsidespack/0/1-City
 
 #lvl_a-04
   11
-   5,R,D,X
+   4,D,X
    1,R,J
    5,R
    9,D,G
@@ -558,4 +558,4 @@ console load nameguysdsidespack/0/1-City
    1,L,K,G
   98,L
 
-ChapterTime: 1:04.974(3822)
+ChapterTime: 1:04.957(3821)
