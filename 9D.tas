@@ -1,4 +1,4 @@
-RecordCount: 41572
+RecordCount: 41579
 
 console load nameguysdsidespack/0/10-Farewell
    1
@@ -11568,7 +11568,6 @@ AnalogMode,Precise
    2,R,D
   21,D
   10,L,D,X
-
    1,K,G
    1,J,G
   11,K,G
@@ -11670,9 +11669,6 @@ endstunpause
    1,J,G
    1,L,J
   21,R,J
-
-
-
   15,U,X
    5,R
   15,U,C
@@ -11701,6 +11697,7 @@ endstunpause
   18,R,J
    5,R,X
   40
+
 #lvl_x-10
    9,R,X
   65,R
@@ -11729,7 +11726,9 @@ AnalogMode,Ignore
    3,F,90
   13,F,60
   22,F,19.04
-   9,F,70
+   7,F,70
+   1,F,60.5
+   1,F,70
   29,F,110.36
    8,F,130
   16,F,50
