@@ -1,0 +1,82 @@
+#To sync:
+#Use Celeste v.1.4.0.0
+#Start from Begin
+#More Things Like Everest and D - Sides idk
+
+Read,StartFullGameFile
+
+#Prologue D-Side
+Read,PrologueD
+
+Read,LoadDPost,Load1D
+
+#Forsaken City D-Side
+Read,1D
+
+Read,LoadDPost
+
+#Old Site D-Side
+Read,2D
+
+Read,LoadA
+
+#Celestial Resort D-Side
+Read,3D
+
+Read,LoadA
+
+#Golden Ridge D-Side
+Read,4D
+
+Read,LoadA
+
+#Mirror Temple D-Side
+Read,5D
+
+Read,LoadA
+
+#Reflection D-Side
+Read,6D
+
+Read,LoadA
+
+#Summit D-Side
+Read,7D
+
+Read,LoadA
+
+#Core D-Side
+Read,8D
+
+Read,LoadA
+
+#Epilogue D-Side
+Read,EpilogueD
+
+  60
+   1,J
+ 196
+Add 197
+ 185
+   1,J
+  43
+   1,J
+  46
+Add 1
+
+#Final Goodbye / Farewell D-Side
+Read,9D
+
+Read,LoadA
+
+#Post-Epilogue
+Read,Post-Epilogue
+
+Add 197
+  60
+   1,X
+  62
+
+Read,LoadJournal,Epilogue
+
+FileTime: 1:11:09.975(251175)
