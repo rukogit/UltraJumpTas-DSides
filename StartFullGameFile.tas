@@ -1,18 +1,8 @@
-# Ensure a new save slot with "Begin" is selected
-Assert Equal True [[local ui = scene.Current; return ui ~= nil and ui.SlotSelected and not ui.Slots[ui.SlotIndex].Exists and getValue(ui.Slots[ui.SlotIndex], "buttonIndex") == 0]]
-Skip
-   1
-
-Set ScreenShake Off
-Set CrouchDashMode Press
-Set GrabMode Hold
-Set DisableFlashes true
-Set SpeedrunClock 2
-Set Everest.UseKeyboardForTextInput false
-Set ExtendedVariantMode.EveryJumpIsUltra true
-EnforceMaingame
+Set,DisableScreenShake,true
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
+Set,Everest.ShowModOptionsInGame,false
 Unsafe
-
 Add 2
 Add 1,J
 Add 89
@@ -39,12 +29,20 @@ Add 41
    1,J
    1,S
   48
+   1,D
+   1,F,180
+   1,D
+#for bot sync check (starts from
+#museum)
+   1,L
+#   1,R
+#####
+#input however many left 
+#(or right) inputs you need
    1,U
+   1,F,
+   1,U
+   1,F,
    1,J
+   1
 Add 131
-
-#Prologue
-   1,S
-   1,D,J
-  32
-Add 1
