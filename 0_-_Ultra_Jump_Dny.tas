@@ -18,31 +18,31 @@ Read,LoadDPost
 #Old Site D-Side
 Read,2D
 
-Read,LoadA
+Read,LoadD
 
 #Celestial Resort D-Side
 Read,3D
 
-Read,LoadA
+Read,LoadD
 
 #Golden Ridge D-Side
 Read,4D
 
-Read,LoadA
+Read,LoadD
 
 #Mirror Temple D-Side
 Read,5D
 
-Read,LoadA
+Read,LoadD
 
 #Reflection D-Side
 Read,6D
 
-Read,LoadA
+Read,LoadD
 
 #Summit D-Side
 Read,7D
 
 Read,LoadJournal
 
-FileTime: 29:29.615(104095)
+FileTime: 29:03.656(102568)
