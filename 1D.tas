@@ -1,7 +1,7 @@
 # Monika's D-Sides
 # https://gamebanana.com/mods/150759
 
-RecordCount: 3324
+RecordCount: 3371
 Set ExtendedVariantMode.EveryJumpIsUltra true
 console load nameguysdsidespack/0/1-City
    1
@@ -122,9 +122,9 @@ console load nameguysdsidespack/0/1-City
    1
    1,K
    1,L,J,G
-   5,R,J
-  26,R,D
-   9,R
+   4,R,J
+  23,R,D
+  12,R
   11,J,G
    2,L,J
   12,K
@@ -132,33 +132,32 @@ console load nameguysdsidespack/0/1-City
    7,K,G
    2,L,K
    6,R,K
-   4,R
-   5,R,Z
-   1,R,J
-   1,J
-   2,K,G
-   5
-   1,J
+   3,R
+   1
+#new
+   4,R,X
+   3,R,J
+   1,K,G
+   2,R,K,G
+   1,R,K,G
+   2,R
   40
-
 #lvl_a-05
-   8
-   5,D
-   1,R,D
+   3,R,K
+   1,R,K
+  30,R,D,X
    4,D
-   8,R,D
-  15,D
-   3,L,D
-   1,J
-   8,K,G
-  12,R,K
-  14,R
-  14,R,X
-   1,R,J,G
-  46,R,U,G
-   4,R,J,G
+  11,R,D
+   1,L,K,G
+  10,R,K
+  18,R
+   4,R,K,G
+   5,R
+   8,R,J
+   2,R,G
+  37,U,G
+   4,R,K,G
   40
-
 #lvl_a-06
   11,R
    7,R,D,X
@@ -189,6 +188,7 @@ console load nameguysdsidespack/0/1-City
   14,R,Z
    3,R,J
   40
+
 
 #lvl_a-07
    2,R,J
@@ -557,4 +557,4 @@ console load nameguysdsidespack/0/1-City
    1,L,K,G
   98,L
 
-ChapterTime: 1:04.906(3818)
+ChapterTime: 1:04.753(3809)
