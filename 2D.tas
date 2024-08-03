@@ -1,4 +1,4 @@
-RecordCount: 1583
+RecordCount: 1632
 
 console load nameguysdsidespack/0/2-Oldsite
    1
@@ -40,17 +40,19 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,J
   10,R,J
    1,R
-
    1,K,G
    2,L,K
   15,J
    1,R,J
-  12,K,G
-   4,L,K
+   8,K,G
    1,R,J,G
+   3,L,J,G
+   4,R,J,G
    1,R,K,G
-   5,R,J,G
-  25,R,D
+   2,R,J,G
+   5,R
+   9,R,J
+  14,R,D
   37,R,X
    4,R,J
    4,R,K
@@ -495,4 +497,4 @@ EndRepeat
   38,R,K,G
   58,R,J,G
 
-ChapterTime: 1:06.334(3902)
+ChapterTime: 1:06.317(3901)
