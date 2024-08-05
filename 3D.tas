@@ -1,5 +1,5 @@
 
-RecordCount: 2463
+RecordCount: 2928
 
 console load nameguysdsidespack/0/3-Resort
    1
@@ -7,7 +7,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
 #Start
   92
 #Spinner Cycle
-   2
+   1
 ##
    9,L,Z
    1,R,J
@@ -76,6 +76,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,R,J
    3,R
   40
+
 #lvl_a-03
    4,R
   15,R,D,X
@@ -85,19 +86,20 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    4,L,D
   11,R,D
   14,R,X
-   2,K,G
-  14,R
-   3,J
+   1,K,G
+  12,R
+   3,L,J
+   4,L
   15,U,X
-   2,L
-  16,L,U,X
-  11,K,G
-   1,R,K
-   1,R
+   3,L
+  16,L,U,Z
+   6,K,G
+   3,R,K
+   5,R
    1,R,J
-  17,R
+  10,R
   15,R,Z
-  37,L,D
+  35,L,D
    6,L,Z
    1,R,J
    7,R
@@ -106,6 +108,8 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,R,J,G
    2,R,J
   40
+
+#lvl_a-04
    9,R,J
   29,R,U,Z
   34,R,X
@@ -177,7 +181,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   18,L
    7,L,D
   13,U,G
-  44,G
+  43,G
   10
   10,R,D
   21,R
@@ -279,13 +283,16 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   14,R,K,G
   14,R,J,G
    7,R,J
-  50,R,Z
-   1,L,J
-  42,L
-   5
-   7,L,K
-  16,L
-  17,L,J
+  15,D,X
+  15,D,C
+  15,D,X
+   8,R
+  14,L,Z
+   9,L,J
+   1,L
+   9,L,J
+   2,L
+  19,L,J
   14,U,X
   28,L,J
   12,L,K,G
@@ -989,7 +996,7 @@ endstunpause
   14,R,U
   26,F,80
   23,R
-  12,R,D,X
+1243,R,V
    1,R,J
    6,R
   40
@@ -1018,4 +1025,4 @@ endstunpause
   30,R,J
   20,R,U,X
  134
-ChapterTime: 2:53.706(10218)
+ChapterTime: 2:52.890(10170)
